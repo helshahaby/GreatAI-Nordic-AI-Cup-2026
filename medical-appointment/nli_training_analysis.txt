@@ -1,0 +1,661 @@
+01/39 sample_4
+02/39 sample_5
+03/39 sample_6
+04/39 sample_10
+05/39 sample_17
+06/39 sample_18
+07/39 sample_19
+08/39 sample_20
+09/39 sample_23
+10/39 sample_33
+11/39 sample_37
+12/39 sample_39
+13/39 sample_42
+14/39 sample_43
+15/39 sample_47
+16/39 sample_48
+17/39 sample_50
+18/39 sample_52
+19/39 sample_54
+20/39 sample_55
+21/39 sample_56
+22/39 sample_57
+23/39 sample_63
+24/39 sample_64
+25/39 sample_66
+26/39 sample_67
+27/39 sample_69
+28/39 sample_70
+29/39 sample_71
+30/39 sample_75
+31/39 sample_77
+32/39 sample_79
+33/39 sample_81
+34/39 sample_82
+35/39 sample_84
+36/39 sample_86
+37/39 sample_90
+38/39 sample_92
+39/39 sample_95
+
+POSITIVE GOLD-SPAN NLI
+contradiction 3
+entailment 49
+neutral 143
+
+HARD-NEGATIVE TOP5 NLI
+contradiction 20
+entailment 6
+neutral 116
+
+POSITIVE NOT ENTAILED
+
+neutral 0.9492
+Q: Did the patient attend for an annual asthma follow-up?
+P: It tells me we are running on time for once. So, this is your annual follow-up. It is, for the asthma.
+
+neutral 0.9671
+Q: Is the heart examination without abnormal findings?
+P: Your chest and heart both sound normal. Nothing abnormal to report.
+
+neutral 0.9969
+Q: Was the patient listened to with a stethoscope?
+P: Exactly that. Let me listen to your chest and your heart, and then we will talk. Go ahead. Breathe normally for me. And again. Is it alright? Your chest and heart both sound normal. Nothing abnormal to report.
+
+neutral 0.9965
+Q: Were the lungs found to be normal on auscultation?
+P: Your chest and heart both sound normal. Nothing abnormal to report.
+
+neutral 0.9508
+Q: Are the patient's asthma findings stable at this visit?
+P: Nothing has. This is what a stable annual check looks like.
+
+neutral 0.9897
+Q: Does the visit concern asthma?
+P: It is, for the asthma.
+
+neutral 0.972
+Q: Does the patient take pantoprazole for reflux?
+P: And then the anti-inflammatory gave me reflux on top. Which is why you are on Pantopresol for that.
+
+neutral 0.9927
+Q: Will the NSAID treatment be continued under cover of a proton pump inhibitor?
+P: For the pain, you continue the anti-inflammatory with the stomach protection alongside it.
+
+neutral 0.8523
+Q: Was muscle tension found in the neck and shoulders?
+P: I can feel muscle tension in your neck and shoulders.
+
+neutral 0.9592
+Q: Are the menopausal symptoms treated with Activelle?
+P: Then the menopausal symptoms, which you are taking Actavel for.
+
+neutral 0.9947
+Q: Was the patient's voice noted to sound congested?
+P: You do sound congested.
+
+neutral 0.9888
+Q: Are four daily doses of one million IU of penicillin planned?
+P: For the sinuses, penicillin. One million international units, four times daily for seven days.
+
+neutral 0.9989
+Q: Does the patient also have a fungal infection in the mouth?
+P: And fluconazole, 50 milligrams for seven days for the mouth.
+
+neutral 0.9667
+Q: Did the patient ask for penicillin?
+P: I want penicillin for it.
+
+neutral 0.917
+Q: Will the patient take Fluconazole 50 mg?
+P: And fluconazole, 50 milligrams for seven days for the mouth.
+
+neutral 0.977
+Q: Is the patient complaining of sinus symptoms?
+P: My sinuses, blocked, aching, the whole business.
+
+neutral 0.6851
+Q: Has penicillin been prescribed for seven days?
+P: For the sinuses, penicillin. One million international units, four times daily for seven days.
+
+neutral 0.9578
+Q: Does the patient need continued treatment?
+P: I would describe this as a stable situation. You do need to continue the treatment you are on.
+
+neutral 0.9893
+Q: Are the patient's complaints unchanged, with nothing new reported?
+P: No. Nothing new. Should there be? I do worry about the asthma sometimes.
+
+neutral 0.9995
+Q: Is the medicine to be taken after a meal?
+P: You take it after a meal.
+
+neutral 0.9951
+Q: Should the daily dose be 100 mg?
+P: 100 milligrams daily for two weeks.
+
+contradiction 0.9137
+Q: Will the treatment last two weeks?
+P: After a meal every day for two weeks.
+
+neutral 0.9844
+Q: Did the patient ask for a renewal of the Ibumetin prescription?
+P: I need my ibumet and renewed.
+
+neutral 0.9646
+Q: Has the Ibumetin prescription been issued?
+P: Yes. The prescription is created. Does that plan sound workable to you?
+
+neutral 0.9875
+Q: Will the blood tests include cholesterol and blood sugar?
+P: Blood tests. Please book a time for those. We check kidneys, cholesterol and blood sugar.
+
+neutral 0.9907
+Q: Does the doctor consider the NSAID use long-standing and high?
+P: You have used anti-inflammatory painkillers heavily and for a long time.
+
+neutral 0.8967
+Q: Is the patient still being treated for asthma?
+P: I am still being treated for asthma and for reflux.
+
+neutral 0.7349
+Q: Were three prescriptions renewed in total?
+P: Actavel, Aeromere, and isomeprazole, all three renewed.
+
+neutral 0.9918
+Q: Is Airomir among the renewed medicines?
+P: Actavel, Aeromere, and isomeprazole, all three renewed.
+
+neutral 0.9984
+Q: Was Ibumetin renewed as well?
+P: I am creating prescriptions for both Pamol and ibumetin now,
+
+neutral 0.9865
+Q: Is Pamol one of the medicines requested?
+P: I am creating prescriptions for both Pamol and ibumetin now,
+
+neutral 0.9971
+Q: Were both prescriptions issued?
+P: I am creating prescriptions for both Pamol and ibumetin now,
+
+neutral 0.5682
+Q: Was a skin wart found under the right breast?
+P: Let me look at them. The one under your right breast is a skin wart, about one centimeter.
+
+neutral 0.9993
+Q: Has the patient been informed about the risk of scarring and infection?
+P: There will be a scar where each one is removed, and there is a risk of infection afterwards.
+
+neutral 0.9968
+Q: Does the patient want the skin changes removed?
+P: You should know both before we book it. Right, a scar and an infection risk. I would still rather have them off than keep catching them.
+
+neutral 0.9992
+Q: Do the changes on the abdomen and lower leg resemble seborrheic keratoses?
+P: They look like seborrheic keratosis. That is a common harmless growth.
+
+neutral 0.9954
+Q: Has the medication helped the patient?
+P: All right. So the medicine is genuinely working? Yes. The antihistamine is having a good effect.
+
+neutral 0.995
+Q: Should the patient carry on with the treatment as needed?
+P: The plan is to continue it as needed.
+
+neutral 0.9886
+Q: Is the skin intact?
+P: The skin is intact. There is no erythema migrans.
+
+neutral 0.9852
+Q: Was erythema migrans absent?
+P: The skin is intact. There is no erythema migrans.
+
+neutral 0.9759
+Q: The plan involves no treatment, right?
+P: Observation. No treatment is needed.
+
+neutral 0.9925
+Q: Did the patient get a tick bite?
+P: Right. A tick bite. Any redness around the site?
+
+neutral 0.995
+Q: Has the patient been told simply to keep an eye on the area?
+P: Then what is the plan? Observation. No treatment is needed.
+
+neutral 0.9982
+Q: Was reduced mobility found during the examination?
+P: Your movement is also reduced when you bend and turn. Yes, it feels stiff.
+
+neutral 0.9968
+Q: Were painkillers part of the treatment plan?
+P: For treatment, I recommend pain relief and an exercise program.
+
+neutral 0.6512
+Q: The pain was assessed as nonspecific musculoskeletal pain, right?
+P: Putting it together, this is non-specific muscle and joint pain in the back without radiation.
+
+neutral 0.5307
+Q: Was the blood pressure measured at 135/88?
+P: Your blood pressure is 135 over 88.
+
+neutral 0.9971
+Q: Did the doctor assess the patient as slightly overweight?
+P: It puts you in the mildly overweight range.
+
+neutral 0.9935
+Q: Were exercise recommendations also part of the plan?
+P: The plan is advice on diet and on exercise.
+
+neutral 0.624
+Q: Does the patient have a BMI of 28?
+P: Your body mass index is 28.
+
+contradiction 0.8305
+Q: Has the patient been given advice about diet?
+P: The plan is advice on diet and on exercise.
+
+neutral 0.996
+Q: Is the patient feeling well?
+P: Yes, that is right. And I have to say, I feel perfectly well.
+
+neutral 0.8895
+Q: Does the patient have a sore throat?
+P: Thanks. My throat has been really sore.
+
+neutral 0.9966
+Q: Was the strep test negative?
+P: It was negative. That means that bacterium was not found.
+
+neutral 0.957
+Q: Has the doctor decided against antibiotics?
+P: No. The plan is no antibiotics because they do not work against a virus.
+
+neutral 0.7346
+Q: Were coatings seen on the tonsils?
+P: Your tonsils are red and there is coating on them.
+
+neutral 0.9509
+Q: Does the patient have a sore throat?
+P: My throat. It is really sore and it hurts when I swallow.
+
+neutral 0.9954
+Q: Was the TSH normal?
+P: The first was your thyroid stimulating hormone, the thyroid. I had wondered about that one. It came back normal, normal.
+
+neutral 0.9961
+Q: Did the glucose test come back normal too?
+P: And the other one, your glucose, which is your blood sugar. That was normal as well, both normal.
+
+neutral 0.9995
+Q: Were both blood tests within normal limits?
+P: That was normal as well, both normal.
+
+neutral 0.9596
+Q: Has the patient been left without any specific treatment?
+P: No specific treatment is needed on the basis of these results.
+
+neutral 0.9874
+Q: Is the patient's tiredness persistent?
+P: You came about tiredness. Yes, it has been going on and on. It simply does not lift. Persistent fatigue, that is what we were investigating.
+
+neutral 0.9914
+Q: Does the doctor rule out an endocrine cause?
+P: My assessment is that there is no hormonal cause for the tiredness, no hormonal cause.
+
+neutral 0.9367
+Q: Are further tests needed before the diagnosis can be settled?
+P: Further tests have been arranged to settle it. And those will tell us for certain? That is why they are being done. Nothing changes for you until we have them.
+
+neutral 0.9857
+Q: The HbA1c came out at 47 mmol/mol, right?
+P: Your long-term sugar value was 47 millimoles per mole.
+
+neutral 0.9943
+Q: Is the patient free of any symptoms at this visit?
+P: No. Nothing at all. I feel completely normal. No symptoms, then. Your body mass index is 29.
+
+neutral 0.9966
+Q: Did the doctor plan continued follow-up?
+P: The plan is continued support and follow-up.
+
+neutral 0.9804
+Q: Was the patient seen as engaged during the consultation?
+P: From what you describe, you seem engaged and motivated.
+
+neutral 0.8978
+Q: The patient understands the treatment well, right?
+P: My assessment is that you have a good understanding of your illness and your treatment.
+
+neutral 0.7391
+Q: Was the foot examination normal?
+P: Your feet are normal. The examination is fine.
+
+neutral 0.883
+Q: Did the plan include continued monitoring?
+P: The plan is continued monitoring
+
+neutral 0.9944
+Q: Does the doctor regard the diabetes as stable?
+P: Overall, your diabetes looks stable.
+
+neutral 0.983
+Q: Does the plan include routine follow-up?
+P: No, routine follow-up as usual.
+
+neutral 0.9977
+Q: Will the current treatment be continued?
+P: Continue your current treatment exactly as it is.
+
+neutral 0.9913
+Q: Did the HbA1c come out at 43 mmol/mol?
+P: Your long-term sugar value is 43 millimoles per mole.
+
+neutral 0.9994
+Q: Has the cause of the tiredness remained unexplained?
+P: That is the honest part. We have not identified a specific cause.
+
+neutral 0.9967
+Q: Will further measures be held off for the time being?
+P: For the moment we observe, I am not starting anything further today.
+
+neutral 0.9964
+Q: Will the patient continue on the current medication?
+P: Now, the plan. You continue your lifestyle exactly as you are, and you continue your current medication.
+
+neutral 0.4921
+Q: Is the diabetes considered stable?
+P: My assessment is that your diabetes is stable and that no changes are needed.
+
+neutral 0.999
+Q: Has the patient kept up the lifestyle changes?
+P: I have kept it up. I really have.
+
+neutral 0.9949
+Q: Was it concluded that no changes to treatment are needed?
+P: Now, the plan. You continue your lifestyle exactly as you are, and you continue your current medication.
+
+neutral 0.9966
+Q: Does the patient feel stable?
+P: First, how have you been feeling? Honestly, stable. That is the word I keep coming back to.
+
+neutral 0.9765
+Q: Should the patient carry on with the same lifestyle?
+P: Now, the plan. You continue your lifestyle exactly as you are, and you continue your current medication.
+
+neutral 0.9986
+Q: The lipid profile came back normal, didn't it?
+P: Good morning, Anne. Come in and sit down.
+
+neutral 0.997
+Q: Did the patient report no new symptoms?
+P: No, I am not sure there is anything. No new symptoms.
+
+neutral 0.9964
+Q: Is dry skin the reason for this consultation?
+P: It is my feet. The skin on them has become very dry,
+
+neutral 0.9603
+Q: Was the condition assessed as xerosis?
+P: The condition is called xerosis. It simply means dry skin.
+
+neutral 0.9995
+Q: Did the examination rule out any wounds?
+P: Good afternoon. I am Dr. Bruhn. Please have a seat.
+
+neutral 0.9495
+Q: Was the vaccination given as part of diabetes care?
+P: I am here for the influenza vaccination as part of my diabetes care.
+
+neutral 0.9991
+Q: Is the patient free of any reaction after the injection?
+P: Perfectly fine, thank you. Nothing out of the ordinary.
+
+neutral 0.9979
+Q: Will the treatment continue without changes?
+P: So I take it there is nothing that needs adjusting. Nothing at all. There are no changes to make today.
+
+neutral 0.9772
+Q: The doctor described the diabetes as stable, right?
+P: Taken together, your diabetes is stable, with good self-care on your part.
+
+neutral 0.9955
+Q: Will the treatment be continued unchanged?
+P: We continue your treatment unchanged, and keep to the regular check-ups.
+
+neutral 0.9888
+Q: Does the patient say they are doing well?
+P: Good, honestly. I feel well.
+
+neutral 0.9851
+Q: Is the patient sticking to the diet and lifestyle advice?
+P: I have kept to the diet and the lifestyle side of things.
+
+neutral 0.906
+Q: Does the patient feel well?
+P: Well, actually, I feel fine.
+
+neutral 0.7634
+Q: Was the blood pressure normal?
+P: Your blood pressure is normal
+
+neutral 0.8222
+Q: Is the foot status normal?
+P: and your foot status is normal.
+
+neutral 0.8359
+Q: Will the regular check-ups be continued?
+P: The plan is to continue your checkups
+
+neutral 0.8815
+Q: The diabetes was judged to be stable, right?
+P: Overall, your diabetes is stable
+
+neutral 0.9994
+Q: The vaccination went as planned, didn't it?
+P: Good. Then I can say that there were no side effects today.
+
+neutral 0.8661
+Q: Was the vaccine actually given?
+P: There. That is the vaccination given, exactly as planned for this season.
+
+neutral 0.9267
+Q: Were no further measures decided on?
+P: As for what comes next, nothing further is needed. No extra measures from my side.
+
+neutral 0.9954
+Q: Can the patient leave without any additional treatment?
+P: As for what comes next, nothing further is needed. No extra measures from my side. So I just go home? Exactly. Nothing more follows from today's visit.
+
+neutral 0.9991
+Q: Is the patient free of side effects after the vaccine?
+P: Good. Then I can say that there were no side effects today.
+
+neutral 0.8635
+Q: Did the creatinine come back normal?
+P: Your creatinine is normal.
+
+neutral 0.9318
+Q: Are there no signs of complications?
+P: So, my assessment is that your diabetes is stable and there are no signs of complications.
+
+neutral 0.9896
+Q: Does the patient deny any known exposure to COVID-19?
+P: No, none that I know of.
+
+neutral 0.9446
+Q: Is the patient also feeling tired?
+P: A sore throat, and I have been tired a few days now.
+
+neutral 0.8794
+Q: Were rest and fluids recommended?
+P: The plan is rest and plenty of fluids.
+
+neutral 0.807
+Q: Was the infection judged to follow a penetrating trauma?
+P: The thorn broke the skin, and the infection came after that.
+
+neutral 0.9886
+Q: Did the trouble start after the patient pricked themselves on a thorn?
+P: I pricked it on a thorn about two weeks ago, and now I think it has become infected.
+
+neutral 0.99
+Q: Is a foreign body ruled out?
+P: There is no foreign body left in the toe.
+
+neutral 0.9918
+Q: Does the patient have an infection in the big toe?
+P: The thorn broke the skin, and the infection came after that.
+
+neutral 0.9821
+Q: Is chondromalacia patellae suspected on clinical grounds?
+P: From what you describe, I suspect a condition called chondromalacia patellae.
+
+neutral 0.9954
+Q: Do the pains come and go rather than being constant?
+P: I keep getting pain behind my right kneecap, and it keeps coming back.
+
+neutral 0.9722
+Q: Does the patient have pain behind the kneecap?
+P: I keep getting pain behind my right kneecap, and it keeps coming back.
+
+neutral 0.9947
+Q: Did the patient show up in person for the consultation?
+P: Louise, come in. Good to see you.
+
+neutral 0.9988
+Q: Was the suspicion reached without imaging?
+P: So, what do you think is going on in there? From what you describe, I suspect a condition called chondromalacia patellae.
+
+neutral 0.9971
+Q: Did the patient receive advice about fluid intake?
+P: What I want to give you instead is advice on fluid intake
+
+neutral 0.9842
+Q: Does the patient describe symptoms of gastroenteritis?
+P: All the usual gastroenteritis symptoms.
+
+neutral 0.891
+Q: Was gastroenteritis the diagnosis arrived at?
+P: My assessment is that this is most likely a viral gastroenteritis.
+
+neutral 0.9992
+Q: The lesions will be treated with freezing, right?
+P: I will treat them with freezing.
+
+neutral 0.9216
+Q: Do the elements resemble molluscs?
+P: My suspicion is molluscum contagiosum. It is a common viral skin condition.
+
+neutral 0.9932
+Q: Has the patient noticed a wart-like growth?
+P: I have a growth in the middle of my chest. It looks a bit like a wart.
+
+neutral 0.9581
+Q: Were three small lesions seen in the same area of the thorax?
+P: I can see three small lesions, all in the same area on the chest wall.
+
+neutral 0.9245
+Q: Was it the patient's grandfather who died of a heart attack?
+P: My grandfather on my father's side died of a heart attack,
+
+contradiction 0.987
+Q: Does the patient exercise regularly?
+P: I train regularly.
+
+neutral 0.769
+Q: Will both blood tests and an ECG be carried out?
+P: I will take blood samples and I will record an electrocardiogram which is a tracing of the heart's electrical activity.
+
+neutral 0.999
+Q: Was the blood pressure measured at 138 over 83?
+P: I have measured it at 138 over 83.
+
+neutral 0.9867
+Q: Does the patient report cardiovascular disease in the family?
+P: So there is cardiovascular disease in your family. Yes.
+
+neutral 0.9951
+Q: Did that grandfather die at the age of 52?
+P: My grandfather on my father's side died of a heart attack, and he was only 52.
+
+neutral 0.9298
+Q: Is the patient otherwise healthy and living a healthy life?
+P: I am healthy, as far as I know. No illnesses at all. I eat well, and I look after myself. And exercise? I train regularly.
+
+neutral 0.9964
+Q: Is the patient free of fever?
+P: No fever. Nothing like that at all. I have felt perfectly well otherwise, which is partly
+
+neutral 0.9962
+Q: Both testicles felt normal at the examination, correct?
+P: It fits what you describe, yes. The testicles themselves feel normal to me on both sides.
+
+neutral 0.9764
+Q: Was a small swelling found around the epididymis?
+P: I can feel a small swelling around the epididymis on the right, and there is slight tenderness
+
+neutral 0.9986
+Q: Does the doctor consider the change harmless?
+P: From the picture, the change looks harmless.
+
+neutral 0.9954
+Q: Did the patient notice a new mole?
+P: I did. I have got a new mole on my thigh, and it is quite large.
+
+neutral 0.9731
+Q: Was a photo sent in for assessment?
+P: Not at all. You sent a photograph through to us, is that right?
+
+neutral 0.9934
+Q: Has the doctor reviewed the photograph?
+P: Thank you for sending it. I have looked at the photograph carefully.
+
+neutral 0.968
+Q: Is the mole located on the thigh?
+P: I did. I have got a new mole on my thigh, and it is quite large.
+
+neutral 0.9982
+Q: Has a urine sample been sent off for albumin/creatinine ratio analysis?
+P: I'm sending a urine sample for analysis.
+
+neutral 0.7195
+Q: Does the patient work as a staff manager in a retail chain?
+P: And work is still the staff manager role in the retail chain? Yes, still that.
+
+neutral 0.9964
+Q: Did the patient ask to have his cholesterol level checked?
+P: My cholesterol, I think. I would like the level checked.
+
+neutral 0.4998
+Q: Were blood tests taken at this visit?
+P: We have taken your blood test today as part of the follow-up.
+
+neutral 0.9987
+Q: Has the patient been free of side effects?
+P: Good. And any side effects at all? None. Nothing I have noticed.
+
+HARD NEGATIVE FALSE ENTAILMENTS
+
+entailment nli= 0.9428 semantic= 0.454
+Q: Was Pantoprazole the acid-reducing drug that was renewed?
+P: all three renewed. The isomeprazole is the one for the reflux?
+
+entailment nli= 0.9915 semantic= 0.7885
+Q: Was anything abnormal picked up at the examination?
+P: Normal in all of it? Yes. Nothing abnormal was found on examination.
+
+entailment nli= 0.9837 semantic= 0.7559
+Q: Does the pain radiate down the leg?
+P: Does the pain travel anywhere? Down into a leg, for example?
+
+entailment nli= 0.8217 semantic= 0.751
+Q: Is the infection thought to be bacterial?
+P: My assessment is that this is a viral infection. A virus. Not bacteria then.
+
+entailment nli= 0.7801 semantic= 0.7666
+Q: Did the patient report a known exposure to COVID-19?
+P: Do you know of any exposure to COVID-19? Anyone around you who has had it?
+
+entailment nli= 0.9088 semantic= 0.4313
+Q: Have the results of the blood tests already been gone through?
+P: It has. Well tolerated, no side effects, and the blood tests are done.

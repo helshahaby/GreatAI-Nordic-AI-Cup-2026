@@ -1,0 +1,176 @@
+01/39 sample_4
+02/39 sample_5
+03/39 sample_6
+04/39 sample_10
+05/39 sample_17
+06/39 sample_18
+07/39 sample_19
+08/39 sample_20
+09/39 sample_23
+10/39 sample_33
+11/39 sample_37
+12/39 sample_39
+13/39 sample_42
+14/39 sample_43
+15/39 sample_47
+16/39 sample_48
+17/39 sample_50
+18/39 sample_52
+19/39 sample_54
+20/39 sample_55
+21/39 sample_56
+22/39 sample_57
+23/39 sample_63
+24/39 sample_64
+25/39 sample_66
+26/39 sample_67
+27/39 sample_69
+28/39 sample_70
+29/39 sample_71
+30/39 sample_75
+31/39 sample_77
+32/39 sample_79
+33/39 sample_81
+34/39 sample_82
+35/39 sample_84
+36/39 sample_86
+37/39 sample_90
+38/39 sample_92
+39/39 sample_95
+
+SUMMARY
+hard_negative_correct 50
+hard_negative_wrong 92
+off_topic_correct 53
+positive_correct 161
+positive_wrong 34
+
+FALSE POSITIVES
+sample_4	hard_negative	77.64-79.98	Should the asthma medication dose be increased?
+sample_4	hard_negative	40.620000000000005-42.92	Has an irregular heart rhythm been found?
+sample_5	hard_negative	32.1-37.900000000000006	Did the back pain begin after surgery for a lumbar disc prolapse?
+sample_5	hard_negative	74.7-76.88	Have the pains in the hands been attributed to gout?
+sample_6	hard_negative	17.34-19.26	Does the patient want to avoid antibiotics?
+sample_10	hard_negative	18.88-22.86	Did the patient report new breathing symptoms?
+sample_10	hard_negative	76.52-78.74000000000001	Is the stomach acid medication being discontinued?
+sample_10	hard_negative	53.3-58.2	Were abnormal sounds heard over the lungs?
+sample_17	hard_negative	36.98-40.6	Has the patient been told that the condition needs no treatment?
+sample_17	hard_negative	21.22-23.46	Did the swab come from the throat?
+sample_17	hard_negative	39.36-40.6	The treatment is planned to run for six weeks, right?
+sample_18	hard_negative	58.52-66.0	Were liver values the focus of the planned blood tests?
+sample_18	hard_negative	51.5-54.74	Should the blood pressure readings be taken at the clinic instead of at home?
+sample_19	hard_negative	37.2-38.940000000000005	Does the doctor describe the medication as unstable and in need of change?
+sample_19	hard_negative	26.38-29.38	Alongside asthma, is the patient treated for diabetes?
+sample_19	hard_negative	17.76-20.279999999999998	Were the prescriptions stopped rather than renewed?
+sample_20	hard_negative	106.18-107.54	Will the patient be referred to a pain clinic?
+sample_20	hard_negative	207.14-208.83999999999997	Did the patient ask for morphine to be renewed?
+sample_20	hard_negative	168.4-170.32	Does the pain affect the lower back alone?
+sample_23	hard_negative	77.54-79.7	Has the patient been told that the procedure carries no risk of scarring?
+sample_33	hard_negative	49.900000000000006-52.42	Was anything abnormal picked up at the examination?
+sample_37	hard_negative	35.120000000000005-40.04	Was erythema migrans seen around the bite?
+sample_37	hard_negative	41.080000000000005-42.88	Is the risk of Borrelia considered high?
+sample_37	hard_negative	10.639999999999999-12.819999999999999	Has the bite area become red and swollen?
+sample_39	hard_negative	26.04-29.68	Does the pain radiate down the leg?
+sample_39	hard_negative	26.04-27.8	Did the doctor conclude that the pain came from a herniated disc?
+sample_42	hard_negative	129.42-134.6	Did the doctor consider the patient severely obese?
+sample_43	hard_negative	44.26-50.3	Is the infection thought to be bacterial?
+sample_43	hard_negative	31.999999999999996-34.32	Did the doctor see pus in the throat?
+sample_47	hard_negative	12.82-19.62	Is the patient able to swallow without any discomfort?
+sample_47	hard_negative	54.34-56.34	Has the throat problem been assessed as a viral infection?
+sample_47	hard_negative	43.980000000000004-46.34	Were the tonsils pale and free of coatings?
+sample_48	hard_negative	28.7-31.3	Does the doctor attribute the fatigue to a thyroid disorder?
+sample_48	hard_negative	51.06-53.68	Is the tiredness described as brief and occasional?
+sample_50	hard_negative	50.760000000000005-52.92	Were the results enough to confirm type 2 diabetes already?
+sample_52	hard_negative	32.82-35.080000000000005	Is the patient's grasp of the treatment considered inadequate?
+sample_52	hard_negative	12.24-14.299999999999999	Were the classes the patient attended about hypertension?
+sample_52	hard_negative	12.54-14.9	Did the patient skip the diabetes education?
+sample_54	hard_negative	38.86-40.34	Is the blood pressure elevated?
+sample_54	hard_negative	68.88000000000001-71.06	Has the diabetes become unstable?
+sample_54	hard_negative	80.4-84.48	Does the plan involve a check-up only every second year?
+sample_55	hard_negative	63.540000000000006-65.16	Did the tests show albuminuria?
+sample_55	hard_negative	56.36-58.06	Was the creatinine found to be raised?
+sample_56	hard_negative	54.18-59.54	Has iron treatment been started for the tiredness?
+sample_56	hard_negative	44.28-46.52	Was the patient's thyroid function found to be reduced?
+sample_57	hard_negative	120.88000000000001-125.92	Was the patient advised to stop the current medication?
+sample_57	hard_negative	98.12-100.54	Will the diabetes now be treated with insulin?
+sample_63	hard_negative	17.88-20.48	Have complications of the diabetes been identified?
+sample_63	hard_negative	26.18-27.58	Did the patient describe new episodes of dizziness?
+sample_63	hard_negative	66.22-67.48	Is the treatment being changed to a new medication?
+sample_63	hard_negative	47.28-49.68	Did the blood tests show impaired kidney function?
+sample_64	hard_negative	88.04-91.82000000000001	Did the doctor prescribe an antifungal cream?
+sample_64	hard_negative	59.98-64.46	Were open sores found on the feet?
+sample_64	hard_negative	48.0-49.720000000000006	Does the patient complain of dryness on the hands?
+sample_64	hard_negative	80.4-81.66	Was the skin problem assessed as eczema?
+sample_66	hard_negative	112.92-114.9	Was the patient's diabetes found to be unstable?
+sample_66	hard_negative	125.62-127.66	Has follow-up been discontinued going forward?
+sample_66	hard_negative	56.92-59.46	Did the doctor decide to adjust the diabetes medication?
+sample_67	hard_negative	70.66-73.02	Is the diabetes described as poorly controlled?
+sample_69	hard_negative	42.56-43.76	Is blood pressure medication being started?
+sample_69	hard_negative	21.66-24.14	Have early complications of the diabetes been detected?
+sample_70	hard_negative	54.6-57.14	Was the vaccination postponed to a later date?
+sample_71	hard_negative	78.78-80.52	Did the creatinine turn out to be elevated?
+sample_75	hard_negative	70.26-71.8	Is a bacterial infection thought to be the most likely cause?
+sample_75	hard_negative	40.28-42.54	Did the patient report a known exposure to COVID-19?
+sample_75	hard_negative	83.66-86.28	Will the patient be starting a course of antibiotics?
+sample_75	hard_negative	56.24-58.46	Was the patient found to have a fever?
+sample_75	hard_negative	52.32-53.96	Did the throat examination reveal pronounced swelling with pus?
+sample_77	hard_negative	50.78-54.16	Did the infection appear only two days after the injury?
+sample_77	hard_negative	32.760000000000005-35.02	Was a foreign body found in the toe?
+sample_79	hard_negative	24.82-27.02	Does the pain sit on the back of the thigh?
+sample_79	hard_negative	83.98-87.14	Was the diagnosis of chondromalacia patellae confirmed by an MRI scan?
+sample_79	hard_negative	26.3-31.3	Are the knee pains constant throughout the day?
+sample_81	hard_negative	87.74000000000001-89.4	Was the patient told to restrict fluid intake?
+sample_81	hard_negative	68.24000000000001-70.82000000000001	Was a bacterial cause considered the most likely one?
+sample_82	hard_negative	40.52-45.46	Were seven small lesions counted in the area?
+sample_82	hard_negative	71.86-73.6	Has a cream been prescribed as the treatment?
+sample_82	hard_negative	69.92-71.7	Will the lesions be removed surgically?
+sample_86	hard_negative	55.68-57.66	Is the tenderness in the area described as severe?
+sample_86	hard_negative	58.52-62.86	Has surgery been scheduled to remove the swelling?
+sample_86	hard_negative	65.98-70.06	Were both testicles found to be enlarged and abnormal?
+sample_86	hard_negative	32.78-34.5	Did the patient have a fever when he came in?
+sample_86	hard_negative	79.76-82.2	Does the doctor suspect a testicular torsion?
+sample_86	hard_negative	22.4-24.02	Was the swelling located on the left side of the scrotum?
+sample_90	hard_negative	27.18-29.1	Did the doctor find the change suspicious?
+sample_90	hard_negative	14.54-16.98	Is the new mole sitting on the back?
+sample_90	hard_negative	14.68-16.98	Does the patient describe the mole as small and unchanged?
+sample_92	hard_negative	108.68-110.92	Has the result of the urine analysis already come back?
+sample_92	hard_negative	62.74-66.38	Are the patient's exercise habits limited to less than an hour a week?
+sample_95	hard_negative	52.32-54.56	Does the plan involve a check every third month from now on?
+sample_95	hard_negative	38.92-41.120000000000005	Have the results of the blood tests already been gone through?
+sample_95	hard_negative	32.080000000000005-34.2	Is the treatment being stopped because it is poorly tolerated?
+
+FALSE NEGATIVES
+sample_4	positive	GOLD=28.520000000000003-42.72	Was the patient listened to with a stethoscope?
+sample_4	positive	GOLD=40.68-44.98	Were the lungs found to be normal on auscultation?
+sample_5	positive	GOLD=142.44-147.88	Will the NSAID treatment be continued under cover of a proton pump inhibitor?
+sample_10	positive	GOLD=22.2-23.56	Are the patient's complaints unchanged, with nothing new reported?
+sample_18	positive	GOLD=33.0-38.66	Does the doctor consider the NSAID use long-standing and high?
+sample_33	positive	GOLD=44.86-52.62	Are the findings unremarkable?
+sample_33	positive	GOLD=69.06-71.0	Should the patient carry on with the treatment as needed?
+sample_37	positive	GOLD=56.02-59.34	Has the patient been told simply to keep an eye on the area?
+sample_39	positive	GOLD=47.34-53.04	Was reduced mobility found during the examination?
+sample_42	positive	GOLD=39.16-42.54	Was the blood pressure measured at 135/88?
+sample_50	positive	GOLD=39.68-43.4	The HbA1c came out at 47 mmol/mol, right?
+sample_50	positive	GOLD=20.38-22.78	Is the patient free of any symptoms at this visit?
+sample_52	positive	GOLD=59.06-62.7	Was the patient seen as engaged during the consultation?
+sample_55	positive	GOLD=32.56-36.72	Did the HbA1c come out at 43 mmol/mol?
+sample_56	positive	GOLD=48.84-50.82	Did the COVID-19 test come back negative?
+sample_56	positive	GOLD=81.92-85.66	Will further measures be held off for the time being?
+sample_57	positive	GOLD=117.6-122.54	Was it concluded that no changes to treatment are needed?
+sample_57	positive	GOLD=120.9-122.54	The patient stays on the medicine already in use, correct?
+sample_63	positive	GOLD=36.72-41.92	Was the HbA1c measured at 41 mmol/mol?
+sample_63	positive	GOLD=64.76-70.16	Are annual check-ups planned to continue?
+sample_64	positive	GOLD=0.0-0.16	Did the examination rule out any wounds?
+sample_66	positive	GOLD=93.14-96.36	Is the patient free of any reaction after the injection?
+sample_66	positive	GOLD=116.96-122.94	Will the treatment continue without changes?
+sample_67	positive	GOLD=21.8-24.62	Does the patient say they are doing well?
+sample_67	positive	GOLD=51.68-55.5	Was the HbA1c 43 mmol/mol?
+sample_70	positive	GOLD=116.98-124.66	Can the patient leave without any additional treatment?
+sample_71	positive	GOLD=53.7-57.78	Was the HbA1c 42 mmol/mol?
+sample_75	positive	GOLD=31.08-31.94	Is the patient also feeling tired?
+sample_77	positive	GOLD=16.5-17.3	Have about two weeks passed since the injury?
+sample_79	positive	GOLD=24.72-28.16	Do the pains come and go rather than being constant?
+sample_79	positive	GOLD=0.0-2.8	Did the patient show up in person for the consultation?
+sample_79	positive	GOLD=80.88-87.4	Was the suspicion reached without imaging?
+sample_82	positive	GOLD=52.66-55.56	Do the elements resemble molluscs?
+sample_84	positive	GOLD=193.64-201.3	Will both blood tests and an ECG be carried out?

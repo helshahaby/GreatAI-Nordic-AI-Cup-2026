@@ -1,0 +1,54 @@
+POSITIVES: 195
+CURRENT mean tIoU: 0.3634 nonzero= 116
+V3.3 mean tIoU: 0.351 nonzero= 112
+EVIDENCE WINDOWS CHANGED: 12
+BETTER: 2
+WORSE: 7
+SAME: 186
+
+CHANGED EXAMPLES
+
+sample_20 score= 0.75 old= 0.928 new= 0.0
+Q: Has the pain problem been described as stable?
+OLD: 102.44 - 105.08 Then we are looking at a stable pain problem
+NEW: 168.4 - 170.32 That your pain problem is stable
+
+sample_23 score= 0.5 old= 0.0 new= 0.954
+Q: Were the skin changes judged to be benign?
+OLD: 11.12 - 17.26 Some skin changes that keep bothering me. One under my right breast, a couple on my stomach,
+NEW: 53.3 - 56.34 My assessment is that these are benign skin changes.
+
+sample_37 score= 0.333 old= 0.379 new= 0.0
+Q: Was erythema migrans absent?
+OLD: 27.76 - 32.88 The skin is intact. There is no erythema migrans.
+NEW: 37.5 - 40.04 Correct. No erythema migrans.
+
+sample_42 score= 0.35 old= 0.936 new= 0.0
+Q: Does the patient have a BMI of 28?
+OLD: 56.24 - 58.3 Your body mass index is 28.
+NEW: 59.44 - 61.44 28. And what does that tell you?
+
+sample_48 score= 0.5 old= 0.09 new= 0.0
+Q: Is the patient's tiredness persistent?
+OLD: 17.88 - 21.18 Persistent fatigue, that is what we were investigating.
+NEW: 51.38 - 54.14 for the tiredness, no hormonal cause.
+
+sample_70 score= 0.333 old= 0.0 new= 0.301
+Q: Was the vaccine actually given?
+OLD: 25.66 - 33.06 Good. That is the seasonal flu vaccine that we offer once a year. Does that match what you were expecting?
+NEW: 52.76 - 58.68 There. That is the vaccination given, exactly as planned for this season.
+
+sample_75 score= 1.0 old= 0.587 new= 0.315
+Q: Has the patient had a sore throat for a few days?
+OLD: 29.36 - 33.46 A sore throat, and I have been tired a few days now.
+NEW: 33.88 - 36.04 A few days of sore throat and tiredness.
+
+sample_77 score= 0.4 old= 0.37 new= 0.0
+Q: Have about two weeks passed since the injury?
+OLD: 15.24 - 17.4 I pricked it on a thorn about two weeks ago,
+NEW: 19.92 - 22.08 Two weeks ago, on a thorn.
+
+sample_84 score= 0.5 old= 0.687 new= 0.0
+Q: Does the patient report cardiovascular disease in the family?
+OLD: 27.4 - 30.8 So there is cardiovascular disease in your family.
+NEW: 40.64 - 43.56 A family history of heart and circulatory disease

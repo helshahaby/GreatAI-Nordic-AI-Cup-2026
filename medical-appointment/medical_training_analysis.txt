@@ -1,0 +1,408 @@
+SPAN count 195
+SPAN mean 3.2124102564102563
+SPAN median 2.8799999999999955
+SPAN p10 1.3200000000000003
+SPAN p25 1.9399999999999977
+SPAN p50 2.8799999999999955
+SPAN p75 4.079999999999998
+SPAN p90 5.5
+SPAN p95 6.780000000000008
+
+### positive
+Counter({'does the': 26, 'is the': 23, 'did the': 22, 'was the': 20, 'has the': 16, 'will the': 10, 'are the': 4, 'were the': 3, 'should the': 3, 'was a': 3, 'do the': 3, 'the patient': 3, 'the diabetes': 3, 'has penicillin': 2, 'were three': 2, 'were both': 2, 'the visit': 2, 'was it': 2, 'are there': 2, 'is a': 2, 'was muscle': 1, 'are four': 1, 'should kidney': 1, 'was blood': 1, 'has esomeprazole': 1, 'is airomir': 1, 'was ibumetin': 1, 'is pamol': 1, 'is an': 1, 'was erythema': 1, 'are redness': 1, 'the plan': 1, 'was reduced': 1, 'were painkillers': 1, 'the pain': 1, 'were exercise': 1, 'were coatings': 1, 'the thyroid': 1, 'are further': 1, 'the hba1c': 1, "the patient's": 1, 'will further': 1, 'the lipid': 1, 'are annual': 1, 'is dry': 1, 'a moisturizing': 1, 'the doctor': 1, 'the vaccination': 1, 'were no': 1, 'is this': 1, 'can the': 1, 'were rest': 1, 'have about': 1, 'is chondromalacia': 1, 'was gastroenteritis': 1, 'the lesions': 1, 'will both': 1, 'did that': 1, 'both testicles': 1, 'has a': 1, 'were blood': 1, 'the treatment': 1})
+Did the patient attend for an annual asthma follow-up?
+Is the heart examination without abnormal findings?
+Was the patient listened to with a stethoscope?
+Were the lungs found to be normal on auscultation?
+Are the patient's asthma findings stable at this visit?
+Will the current treatment continue unchanged?
+Does the visit concern asthma?
+Does the patient take pantoprazole for reflux?
+Is the patient still in pain despite regular Ibumetin and Panodil?
+Will the NSAID treatment be continued under cover of a proton pump inhibitor?
+Did the patient undergo surgery for a cervical disc prolapse in 2017?
+Was muscle tension found in the neck and shoulders?
+Are the menopausal symptoms treated with Activelle?
+Was the patient's voice noted to sound congested?
+Are four daily doses of one million IU of penicillin planned?
+Does the patient also have a fungal infection in the mouth?
+Did the patient ask for penicillin?
+Will the patient take Fluconazole 50 mg?
+Is the patient complaining of sinus symptoms?
+Has penicillin been prescribed for seven days?
+Does the patient need continued treatment?
+Were the lungs and heart normal on auscultation?
+Are the patient's complaints unchanged, with nothing new reported?
+Is the medicine to be taken after a meal?
+Should the daily dose be 100 mg?
+Will the treatment last two weeks?
+Should kidney function be monitored?
+Did the patient ask for a renewal of the Ibumetin prescription?
+Has the Ibumetin prescription been issued?
+Is the patient also taking Pantoprazole?
+Will the blood tests include cholesterol and blood sugar?
+Does the doctor consider the NSAID use long-standing and high?
+Was blood pressure to be measured at home over three days?
+Is the patient still being treated for asthma?
+Were three prescriptions renewed in total?
+Has Esomeprazole been renewed as well?
+Is Airomir among the renewed medicines?
+Was Ibumetin renewed as well?
+Is Pamol one of the medicines requested?
+Has the pain problem been described as stable?
+Does the patient still need pain relief?
+Were both prescriptions issued?
+Was a skin wart found under the right breast?
+Has the patient been informed about the risk of scarring and infection?
+Does the patient want the skin changes removed?
+Is an appointment for the removal going to be arranged?
+Do the changes on the abdomen and lower leg resemble seborrheic keratoses?
+Were the skin changes judged to be benign?
+The visit is a follow-up on allergic rhinitis, correct?
+Is the patient free of symptoms at the moment?
+Did the antihistamine work well?
+Has the medication helped the patient?
+Are the findings unremarkable?
+Should the patient carry on with the treatment as needed?
+Is the skin intact?
+Was erythema migrans absent?
+Are redness and swelling absent?
+The plan involves no treatment, right?
+Did the patient get a tick bite?
+Has the patient been told simply to keep an eye on the area?
+Does the patient have pain in the lower back?
+Was reduced mobility found during the examination?
+Were painkillers part of the treatment plan?
+The pain was assessed as nonspecific musculoskeletal pain, right?
+Was the blood pressure measured at 135/88?
+Did the doctor assess the patient as slightly overweight?
+Were exercise recommendations also part of the plan?
+Does the patient have a BMI of 28?
+Has the patient been given advice about diet?
+Is the patient feeling well?
+The visit was a preventive health check, correct?
+Does the patient have a sore throat?
+Did the examination find no pus in the throat?
+Was the strep test negative?
+Is the infection considered to be viral?
+Has the doctor decided against antibiotics?
+Has penicillin treatment been started?
+Were coatings seen on the tonsils?
+Does the patient have a sore throat?
+Was the TSH normal?
+Did the glucose test come back normal too?
+Were both blood tests within normal limits?
+Has the patient been left without any specific treatment?
+Is the patient's tiredness persistent?
+Does the doctor rule out an endocrine cause?
+The thyroid test gave a normal result, right?
+Are further tests needed before the diagnosis can be settled?
+The HbA1c came out at 47 mmol/mol, right?
+Was the patient's BMI recorded as 29?
+Is the patient free of any symptoms at this visit?
+Does the patient have a fasting blood sugar of 7.0 mmol/L?
+Did the doctor plan continued follow-up?
+Was the patient seen as engaged during the consultation?
+The patient understands the treatment well, right?
+Was the foot examination normal?
+Has the patient received a flu vaccination?
+Did the plan include continued monitoring?
+Does the doctor regard the diabetes as stable?
+Does the plan include routine follow-up?
+Will the current treatment be continued?
+Did the HbA1c come out at 43 mmol/mol?
+Has the cause of the tiredness remained unexplained?
+Did the COVID-19 test come back negative?
+The patient's thyroid function was checked, wasn't it?
+Will further measures be held off for the time being?
+Will the patient continue on the current medication?
+Is the diabetes considered stable?
+Has the patient kept up the lifestyle changes?
+Was it concluded that no changes to treatment are needed?
+Does the patient feel stable?
+Should the patient carry on with the same lifestyle?
+The patient stays on the medicine already in use, correct?
+Was the diabetes control judged to be good?
+The lipid profile came back normal, didn't it?
+Was the HbA1c measured at 41 mmol/mol?
+Are annual check-ups planned to continue?
+Did the patient report no new symptoms?
+Is dry skin the reason for this consultation?
+Was the condition assessed as xerosis?
+A moisturizing cream was prescribed, wasn't it?
+Did the examination rule out any wounds?
+Was the vaccination given as part of diabetes care?
+The diabetes status was described as stable, wasn't it?
+Is the patient free of any reaction after the injection?
+Will the treatment continue without changes?
+The doctor described the diabetes as stable, right?
+Will the treatment be continued unchanged?
+Is the patient's self-care considered good?
+Does the patient say they are doing well?
+Is the patient sticking to the diet and lifestyle advice?
+Has the weight remained stable?
+Was the HbA1c 43 mmol/mol?
+Does the patient feel well?
+Was the blood pressure normal?
+Is the foot status normal?
+Will the regular check-ups be continued?
+The diabetes was judged to be stable, right?
+Are there no signs of complications?
+The vaccination went as planned, didn't it?
+Was the vaccine actually given?
+Were no further measures decided on?
+Is this vaccination something the patient receives annually?
+Can the patient leave without any additional treatment?
+Is the patient free of side effects after the vaccine?
+Did the creatinine come back normal?
+Was the HbA1c 42 mmol/mol?
+Are there no signs of complications?
+Is the LDL cholesterol 2.2 mmol/L?
+The diabetes was described as stable, right?
+Does the patient deny any known exposure to COVID-19?
+Is the patient also feeling tired?
+Were rest and fluids recommended?
+Has the patient had a sore throat for a few days?
+Did the patient receive a tetanus vaccination?
+Was the infection judged to follow a penetrating trauma?
+Have about two weeks passed since the injury?
+Did the trouble start after the patient pricked themselves on a thorn?
+The patient was treated with penicillin, correct?
+Is a foreign body ruled out?
+Does the patient have an infection in the big toe?
+Is chondromalacia patellae suspected on clinical grounds?
+Do the pains come and go rather than being constant?
+Does the patient have pain behind the kneecap?
+Did the patient show up in person for the consultation?
+Was the suspicion reached without imaging?
+Is a viral cause thought to be the most likely explanation?
+Did the patient receive advice about fluid intake?
+Does the patient describe symptoms of gastroenteritis?
+Was gastroenteritis the diagnosis arrived at?
+The lesions will be treated with freezing, right?
+Do the elements resemble molluscs?
+Has the patient noticed a wart-like growth?
+Were three small lesions seen in the same area of the thorax?
+Was it the patient's grandfather who died of a heart attack?
+Does the patient exercise regularly?
+Will both blood tests and an ECG be carried out?
+Was the blood pressure measured at 138 over 83?
+Does the patient report cardiovascular disease in the family?
+Did that grandfather die at the age of 52?
+Is the patient otherwise healthy and living a healthy life?
+Is the patient free of fever?
+Both testicles felt normal at the examination, correct?
+Was a small swelling found around the epididymis?
+Does the doctor consider the change harmless?
+Did the patient notice a new mole?
+Was a photo sent in for assessment?
+Has the doctor reviewed the photograph?
+Is the mole located on the thigh?
+Has a urine sample been sent off for albumin/creatinine ratio analysis?
+Does the patient work as a staff manager in a retail chain?
+Did the patient ask to have his cholesterol level checked?
+Was the previous LDL value 3.9?
+Were blood tests taken at this visit?
+Has the patient been free of side effects?
+The treatment is considered well tolerated, right?
+
+### hard_negative
+Counter({'did the': 21, 'was the': 20, 'does the': 19, 'is the': 19, 'has the': 15, 'were the': 5, 'should the': 4, 'will the': 4, 'are the': 3, 'have the': 2, 'was a': 2, 'has an': 1, 'were abnormal': 1, 'were bacteria': 1, 'the treatment': 1, 'were liver': 1, 'alongside asthma,': 1, 'was pantoprazole': 1, 'were daily': 1, 'was anything': 1, 'was erythema': 1, 'has metformin': 1, 'has iron': 1, 'will treatment': 1, 'have complications': 1, 'were open': 1, 'was intense': 1, 'did a': 1, 'has follow-up': 1, 'were wounds': 1, 'is blood': 1, 'have early': 1, 'was blood': 1, 'is a': 1, 'is admission': 1, 'were seven': 1, 'has a': 1, 'has surgery': 1, 'were both': 1})
+Should the asthma medication dose be increased?
+Has an irregular heart rhythm been found?
+Did the back pain begin after surgery for a lumbar disc prolapse?
+Have the pains in the hands been attributed to gout?
+Should the fungal infection be treated with Brentan gel?
+Does the patient want to avoid antibiotics?
+Has the doctor found the condition to be unstable?
+Did the patient report new breathing symptoms?
+Is the stomach acid medication being discontinued?
+Were abnormal sounds heard over the lungs?
+Does the plan include a referral to a lung specialist?
+Has the patient been told that the condition needs no treatment?
+Were bacteria identified in the sample?
+Did the swab come from the throat?
+Was the prescribed dose 200 mg daily?
+The treatment is planned to run for six weeks, right?
+Should the tablets be taken on an empty stomach?
+Were liver values the focus of the planned blood tests?
+Should the blood pressure readings be taken at the clinic instead of at home?
+Does the doctor describe the medication as unstable and in need of change?
+Alongside asthma, is the patient treated for diabetes?
+Were the prescriptions stopped rather than renewed?
+Was Pantoprazole the acid-reducing drug that was renewed?
+Will the patient be referred to a pain clinic?
+Did the patient ask for morphine to be renewed?
+Does the pain affect the lower back alone?
+Has the patient been told that the procedure carries no risk of scarring?
+Are the elements on the abdomen about 2 cm across?
+Does the doctor plan to refer the patient to an allergy specialist?
+Were daily doses made mandatory going forward?
+Was anything abnormal picked up at the examination?
+Was erythema migrans seen around the bite?
+Is the risk of Borrelia considered high?
+Has the bite area become red and swollen?
+Has the patient been referred for surgery?
+Does the pain radiate down the leg?
+Did the doctor conclude that the pain came from a herniated disc?
+Was the patient's mobility completely unaffected?
+Did the doctor consider the patient severely obese?
+Was the blood pressure 155/98?
+Is the infection thought to be bacterial?
+Does the patient describe abdominal pain as the main problem?
+Were the tonsils covered in coatings?
+Did the doctor see pus in the throat?
+Is the patient able to swallow without any discomfort?
+Did the doctor prescribe erythromycin?
+Does the patient complain of hoarseness as the main symptom?
+Was the patient told to manage with symptom relief only?
+Has the throat problem been assessed as a viral infection?
+Were the tonsils pale and free of coatings?
+Does the doctor attribute the fatigue to a thyroid disorder?
+Is the tiredness described as brief and occasional?
+Does the fasting blood sugar lie at 5.0 mmol/L?
+Has metformin treatment been started at this visit?
+Were the results enough to confirm type 2 diabetes already?
+Has the patient been discharged from any further follow-up?
+Does the plan involve starting insulin?
+Is the patient's grasp of the treatment considered inadequate?
+Was the patient found to be poorly motivated?
+Were the classes the patient attended about hypertension?
+Did the patient skip the diabetes education?
+Is the blood pressure elevated?
+Was the patient given a pneumococcal vaccination?
+Has the diabetes become unstable?
+Does the plan involve a check-up only every second year?
+Does the plan include an urgent referral to a kidney specialist?
+Did the tests show albuminuria?
+Is the HbA1c reported as 53 mmol/mol?
+Was the creatinine found to be raised?
+Has the patient reported tiredness and thirst?
+Has iron treatment been started for the tiredness?
+Was the patient's thyroid function found to be reduced?
+Is the patient complaining mainly of chest pain?
+Will treatment for the fatigue begin straight away?
+Was the patient advised to stop the current medication?
+Will the diabetes now be treated with insulin?
+Have complications of the diabetes been identified?
+Did the patient describe new episodes of dizziness?
+Is the treatment being changed to a new medication?
+Did the blood tests show impaired kidney function?
+Did the doctor prescribe an antifungal cream?
+Were open sores found on the feet?
+Was intense itching the main complaint?
+Does the patient complain of dryness on the hands?
+Was the skin problem assessed as eczema?
+Was the patient given a pneumococcal vaccination?
+Did a local reaction develop at the injection site?
+Was the patient's diabetes found to be unstable?
+Has follow-up been discontinued going forward?
+Did the doctor decide to adjust the diabetes medication?
+Has the patient been referred to a dietitian?
+Is the diabetes described as poorly controlled?
+Were wounds discovered on the feet?
+Is blood pressure medication being started?
+Have early complications of the diabetes been detected?
+Was blood taken during the same visit?
+Was the vaccination postponed to a later date?
+Is the patient asked to come back in a week for a second dose?
+Has the patient been troubled by increased thirst?
+Is the LDL cholesterol 4.2 mmol/L?
+Did the creatinine turn out to be elevated?
+Is a bacterial infection thought to be the most likely cause?
+Did the patient report a known exposure to COVID-19?
+Will the patient be starting a course of antibiotics?
+Was the patient found to have a fever?
+Did the throat examination reveal pronounced swelling with pus?
+Did the infection appear only two days after the injury?
+Was a foreign body found in the toe?
+Has the patient been referred to a physiotherapist instead of further procedures?
+Does the pain sit on the back of the thigh?
+Was the diagnosis of chondromalacia patellae confirmed by an MRI scan?
+Are the knee pains constant throughout the day?
+Has the patient been given antibiotics for the illness?
+Is admission to hospital part of the plan?
+Is the patient complaining of chest symptoms?
+Was the patient told to restrict fluid intake?
+Was a bacterial cause considered the most likely one?
+Was the growth suspected to be a basal cell carcinoma?
+Were seven small lesions counted in the area?
+Has a cream been prescribed as the treatment?
+Will the lesions be removed surgically?
+Is the check-up being done because the patient has symptoms from the heart?
+Does the patient say that exercise is something they rarely do?
+Is the tenderness in the area described as severe?
+Has surgery been scheduled to remove the swelling?
+Were both testicles found to be enlarged and abnormal?
+Did the patient have a fever when he came in?
+Does the doctor suspect a testicular torsion?
+Was the swelling located on the left side of the scrotum?
+Did the doctor find the change suspicious?
+Is the new mole sitting on the back?
+Does the patient describe the mole as small and unchanged?
+Has the result of the urine analysis already come back?
+Is the pulse recorded as 92?
+Are the patient's exercise habits limited to less than an hour a week?
+Was the blood pressure measured at 160/95?
+Does the plan involve a check every third month from now on?
+Have the results of the blood tests already been gone through?
+Was the follow-up handled by telephone?
+Is the treatment being stopped because it is poorly tolerated?
+Did the patient report muscle pain as a side effect?
+Has the dose been increased at this consultation?
+
+### off_topic
+Counter({'does the': 23, 'is there': 7, 'was the': 7, 'did the': 4, 'at any': 3, 'are the': 3, 'is the': 2, 'was any': 1, 'was a': 1, 'according to': 1, 'did they': 1})
+Is there any discussion about cooking?
+Does the conversation mention the patient owning a digital camera?
+Is the patient discussing owning a cat?
+Does the patient talk about needing a new vehicle for their daily commute?
+Did the patient mention owning a specific pet?
+Was any problem with housing discussed?
+Is there any mention of attending a concert?
+Is there any reference to the patient planning a specific fitness challenge?
+Did the patient discuss baking a cake in the conversation?
+Did the conversation mention anything about the patient planning a trip?
+Was a specific recipe or cooking activity discussed?
+At any point does the patient talk about their experiences with a hobby?
+Is there any mention of the patient's pet?
+Does the patient talk about needing a new vehicle?
+Is there any talk about the patient's recent purchase of a vehicle?
+Does the conversation indicate the patient discussed their employment as a freelancer?
+Is the patient discussing their pet?
+At any point does the patient express interest in learning digital photography techniques?
+Does the patient talk about wanting to work part-time?
+Are the speakers discussing the patient's pet?
+Does the conversation indicate the patient discussed their desire to learn digital photography techniques?
+Does the doctor ask about the patient's experience with specific technology?
+Are the speakers discussing the patient's recent college experience?
+Was the patient talking about their recent weekend?
+Does the doctor ask about the patient's plans for the holidays?
+Does the patient discuss their job?
+Was the doctor concerned that the patient's symptoms might be related to exposure to the dark side of the Force?
+Does the conversation indicate the patient was thinking about joining a hiking club?
+Does the patient mention having a preference for tea?
+Was the doctor asking about the patient's upcoming movie night?
+Are the speakers discussing the weather?
+Does the doctor ask about the patient's job responsibilities?
+Was the patient's condition described as being caused by a mysterious disturbance in the Force?
+Does the patient express a desire to change their employment status?
+Is there any reference to the patient planning to watch a specific movie?
+Was the patient planning to cook a specific dish for dinner mentioned?
+Does the patient express interest in changing their work schedule?
+Did the patient discuss their college courses online?
+Was the patient discussing their pet?
+According to the conversation, was a specific type of sport played by the patient discussed?
+Does the conversation indicate the patient uses specific software?
+Does the patient talk about using a digital device for online shopping?
+Does the patient express interest in learning Spanish?
+Does the conversation indicate the patient discussed their recent purchase of groceries?
+Does the patient express interest in using a particular software?
+Did they talk about the weather being unusually hot?
+Was the patient referred to Doctor Strange for magical treatment?
+Does the conversation mention a specific dish the patient plans to cook for dinner?
+Does the patient talk about their job responsibilities?
+Does the patient mention owning a cat?
+At any point does the patient talk about their pet?
+Is there any reference to the patient using specific software for work?
+Does the patient talk about having a pet hamster?

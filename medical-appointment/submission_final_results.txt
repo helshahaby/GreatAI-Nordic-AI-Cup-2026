@@ -1,0 +1,30 @@
+
+Attempt statistics
+  questions            390
+  correct              301
+  unanswered           0
+  conversations        39
+  failed conversations 0
+  timeouts             0
+
+Accuracy by question type
+  positive             0.790  (154/195)
+  hard_negative        0.669  (95/142)
+  off_topic            0.981  (52/53)
+
+Evidence localization
+  mean tIoU                0.372  (over 195 annotated yes questions)
+  no span returned         41
+  tIoU when answered yes   0.472  (diagnostic, n=154, not scored)
+
+Round trip
+  per conversation             5330 ms mean,    10597 ms worst  (n=39)
+  per question                  533 ms
+  budget                      60000 ms  (18% of it used at worst)
+
+Accuracy:  0.772
+Mean tIoU: 0.372
+Score:     0.532
+
+39 conversations is a correctness check, not a benchmark. The breakdown by
+question type and the evidence block are the numbers to act on.

@@ -1,0 +1,322 @@
+TOTAL POSITIVES 195
+SELECTED WINDOW OVERLAPS GOLD 132
+SELECTED WINDOW ZERO OVERLAP 63
+REJECTED POSITIVES 41
+MEAN TIOU USING WHOLE SELECTED WINDOW 0.4125
+
+ZERO-OVERLAP POSITIVES
+
+sample_4 score= 0.6 rejected= False
+GOLD 21.62-26.24 SELECTED 76.32-81.18
+Q: Did the patient attend for an annual asthma follow-up?
+P: Then that is the whole of it. Asthma follow-up done. No changes.
+
+sample_4 score= 0.0 rejected= True
+GOLD 28.52-42.72 SELECTED 0.00-1.34
+Q: Was the patient listened to with a stethoscope?
+P: Morning, Dr. Fabricius.
+
+sample_4 score= 0.0 rejected= True
+GOLD 40.68-44.98 SELECTED 0.00-1.34
+Q: Were the lungs found to be normal on auscultation?
+P: Morning, Dr. Fabricius.
+
+sample_4 score= 0.333 rejected= False
+GOLD 24.88-26.24 SELECTED 76.32-81.18
+Q: Does the visit concern asthma?
+P: Then that is the whole of it. Asthma follow-up done. No changes.
+
+sample_5 score= 0.0 rejected= True
+GOLD 142.44-147.88 SELECTED 0.00-1.88
+Q: Will the NSAID treatment be continued under cover of a proton pump inhibitor?
+P: Come in, I am Dr. Villadson.
+
+sample_6 score= 0.25 rejected= True
+GOLD 72.96-77.60 SELECTED 12.82-15.06
+Q: Does the patient also have a fungal infection in the mouth?
+P: And I have got thrush in my mouth as well.
+
+sample_6 score= 0.333 rejected= False
+GOLD 9.06-12.28 SELECTED 33.14-35.36
+Q: Is the patient complaining of sinus symptoms?
+P: It points to an acute sinus infection.
+
+sample_6 score= 0.5 rejected= False
+GOLD 64.18-69.68 SELECTED 73.32-77.70
+Q: Has penicillin been prescribed for seven days?
+P: And fluconazole, 50 milligrams for seven days for the mouth.
+
+sample_17 score= 0.5 rejected= False
+GOLD 46.10-47.52 SELECTED 48.34-50.72
+Q: Is the medicine to be taken after a meal?
+P: After a meal every day for two weeks.
+
+sample_17 score= 0.5 rejected= False
+GOLD 48.18-50.70 SELECTED 39.36-45.52
+Q: Will the treatment last two weeks?
+P: What does the treatment involve? Sporonox. 100 milligrams daily for two weeks.
+
+sample_18 score= 0.5 rejected= False
+GOLD 17.24-18.50 SELECTED 66.68-75.16
+Q: Did the patient ask for a renewal of the Ibumetin prescription?
+P: And you will still renew the ibumetin today? Yes. The prescription is created. Does that plan sound workable to you?
+
+sample_19 score= 0.5 rejected= False
+GOLD 68.24-71.64 SELECTED 17.76-21.20
+Q: Were three prescriptions renewed in total?
+P: Two prescriptions renewed, Actavel and Aeromere,
+
+sample_19 score= 0.333 rejected= False
+GOLD 68.24-71.64 SELECTED 17.76-21.20
+Q: Has Esomeprazole been renewed as well?
+P: Two prescriptions renewed, Actavel and Aeromere,
+
+sample_19 score= 0.25 rejected= True
+GOLD 68.24-71.64 SELECTED 17.76-21.20
+Q: Is Airomir among the renewed medicines?
+P: Two prescriptions renewed, Actavel and Aeromere,
+
+sample_20 score= 0.333 rejected= False
+GOLD 182.44-186.30 SELECTED 28.44-30.16
+Q: Was Ibumetin renewed as well?
+P: Well, it is quite simple really.
+
+sample_20 score= 0.25 rejected= True
+GOLD 182.44-184.98 SELECTED 42.28-43.88
+Q: Is Pamol one of the medicines requested?
+P: Pamol and ibumetin.
+
+sample_20 score= 0.75 rejected= False
+GOLD 105.56-107.46 SELECTED 170.32-173.52
+Q: Does the patient still need pain relief?
+P: and that you still need pain-relieving medication.
+
+sample_20 score= 0.667 rejected= False
+GOLD 182.44-184.50 SELECTED 207.14-210.68
+Q: Were both prescriptions issued?
+P: Renewed prescriptions for both and nothing else changes.
+
+sample_23 score= 0.75 rejected= False
+GOLD 85.28-88.50 SELECTED 11.12-21.02
+Q: Does the patient want the skin changes removed?
+P: Some skin changes that keep bothering me. One under my right breast, a couple on my stomach, and one on my left lower leg. I want them gone.
+
+sample_23 score= 0.5 rejected= False
+GOLD 53.30-56.20 SELECTED 11.12-17.26
+Q: Were the skin changes judged to be benign?
+P: Some skin changes that keep bothering me. One under my right breast, a couple on my stomach,
+
+sample_33 score= 0.667 rejected= False
+GOLD 58.82-61.32 SELECTED 62.00-64.54
+Q: Did the antihistamine work well?
+P: So I feel well because of the antihistamine?
+
+sample_33 score= 0.5 rejected= False
+GOLD 55.34-58.28 SELECTED 22.06-25.44
+Q: Has the medication helped the patient?
+P: Let us go through it together. How has the medication been?
+
+sample_33 score= 0.0 rejected= True
+GOLD 44.86-52.62 SELECTED 0.00-4.76
+Q: Are the findings unremarkable?
+P: Good morning. My name is Morton Reese. I have an appointment.
+
+sample_33 score= 0.0 rejected= True
+GOLD 69.06-71.00 SELECTED 0.00-4.76
+Q: Should the patient carry on with the treatment as needed?
+P: Good morning. My name is Morton Reese. I have an appointment.
+
+sample_37 score= 0.667 rejected= False
+GOLD 13.74-14.52 SELECTED 7.38-12.42
+Q: Did the patient get a tick bite?
+P: I found a tick attached to my leg. I removed it and I wanted the bite looked at.
+
+sample_37 score= 0.2 rejected= True
+GOLD 56.02-59.34 SELECTED 21.08-24.64
+Q: Has the patient been told simply to keep an eye on the area?
+P: No swelling either. The area looks unchanged to me.
+
+sample_39 score= 0.25 rejected= True
+GOLD 55.32-60.68 SELECTED 22.84-24.04
+Q: The pain was assessed as nonspecific musculoskeletal pain, right?
+P: Pain in my lower back.
+
+sample_42 score= 0.2 rejected= True
+GOLD 89.86-93.12 SELECTED 22.62-26.24
+Q: Were exercise recommendations also part of the plan?
+P: That is worth noting. Feeling well is part of the picture.
+
+sample_42 score= 1.0 rejected= False
+GOLD 17.22-18.48 SELECTED 22.62-26.24
+Q: Is the patient feeling well?
+P: That is worth noting. Feeling well is part of the picture.
+
+sample_43 score= 0.25 rejected= True
+GOLD 31.76-34.28 SELECTED 3.52-6.34
+Q: Did the examination find no pus in the throat?
+P: Thanks. My throat has been really sore.
+
+sample_43 score= 0.667 rejected= False
+GOLD 23.06-23.78 SELECTED 12.38-20.70
+Q: Was the strep test negative?
+P: A test? What sort of test is that? A strep test. It looks for one particular bacterium that can cause a sore throat.
+
+sample_47 score= 1.0 rejected= False
+GOLD 8.32-11.70 SELECTED 12.82-16.28
+Q: Does the patient have a sore throat?
+P: A sore throat and pain on swallowing. Thank you.
+
+sample_50 score= 0.683 rejected= False
+GOLD 23.86-25.96 SELECTED 27.88-33.30
+Q: Was the patient's BMI recorded as 29?
+P: It compares your weight with your height. 29 is above the healthy range.
+
+sample_52 score= 0.333 rejected= False
+GOLD 70.22-75.36 SELECTED 32.64-35.32
+Q: The patient understands the treatment well, right?
+P: and why the treatment is what it is.
+
+sample_56 score= 0.25 rejected= True
+GOLD 61.66-64.20 SELECTED 89.66-91.40
+Q: Has the cause of the tiredness remained unexplained?
+P: We watch how the tiredness behaves.
+
+sample_57 score= 0.25 rejected= True
+GOLD 117.60-122.54 SELECTED 97.52-101.78
+Q: Was it concluded that no changes to treatment are needed?
+P: My assessment is that your diabetes is stable and that no changes are needed.
+
+sample_57 score= 1.0 rejected= False
+GOLD 30.06-33.80 SELECTED 42.18-46.50
+Q: Does the patient feel stable?
+P: Stable is a good word, so no change in how you feel from day to day.
+
+sample_57 score= 0.2 rejected= True
+GOLD 120.90-122.54 SELECTED 10.94-11.66
+Q: The patient stays on the medicine already in use, correct?
+P: Busy already?
+
+sample_63 score= 0.5 rejected= False
+GOLD 0.00-0.26 SELECTED 49.96-52.94
+Q: The lipid profile came back normal, didn't it?
+P: and your lipid profile is normal as well.
+
+sample_63 score= 0.333 rejected= False
+GOLD 24.46-27.46 SELECTED 20.58-23.60
+Q: Did the patient report no new symptoms?
+P: Has anything new come up since we last met?
+
+sample_64 score= 0.25 rejected= True
+GOLD 0.00-0.16 SELECTED 65.48-71.52
+Q: Did the examination rule out any wounds?
+P: No sores. That was the part I was most worried about, so it is good to hear you say it out loud.
+
+sample_66 score= 0.25 rejected= True
+GOLD 93.14-96.36 SELECTED 97.24-99.54
+Q: Is the patient free of any reaction after the injection?
+P: And I can see no reaction at all.
+
+sample_67 score= 0.25 rejected= True
+GOLD 21.80-24.62 SELECTED 80.74-83.76
+Q: Does the patient say they are doing well?
+P: The findings support it, and I would tell you if they did not.
+
+sample_69 score= 0.0 rejected= True
+GOLD 68.26-69.96 SELECTED 0.00-3.08
+Q: Will the regular check-ups be continued?
+P: Good morning, I'm Dr. Overgaard, please sit down.
+
+sample_70 score= 0.5 rejected= False
+GOLD 80.46-83.34 SELECTED 52.76-58.68
+Q: The vaccination went as planned, didn't it?
+P: There. That is the vaccination given, exactly as planned for this season.
+
+sample_70 score= 0.333 rejected= False
+GOLD 54.54-56.32 SELECTED 25.66-33.06
+Q: Was the vaccine actually given?
+P: Good. That is the seasonal flu vaccine that we offer once a year. Does that match what you were expecting?
+
+sample_70 score= 0.0 rejected= True
+GOLD 116.98-124.66 SELECTED 0.00-3.96
+Q: Can the patient leave without any additional treatment?
+P: Hello, Karen. Good to see you again. Come in and sit down.
+
+sample_70 score= 0.6 rejected= False
+GOLD 80.46-83.34 SELECTED 86.48-93.00
+Q: Is the patient free of side effects after the vaccine?
+P: When I say side effects, I mean any unwanted reaction to the vaccine itself. There were none.
+
+sample_71 score= 0.5 rejected= False
+GOLD 78.86-80.46 SELECTED 44.82-49.44
+Q: Did the creatinine come back normal?
+P: Let us go through your results, because they have come back and they read nicely.
+
+sample_75 score= 0.95 rejected= False
+GOLD 45.06-46.48 SELECTED 40.28-42.54
+Q: Does the patient deny any known exposure to COVID-19?
+P: Do you know of any exposure to COVID-19?
+
+sample_77 score= 0.4 rejected= False
+GOLD 49.56-52.96 SELECTED 46.44-49.08
+Q: Was the infection judged to follow a penetrating trauma?
+P: It is an infection following the penetrating injury.
+
+sample_77 score= 0.0 rejected= True
+GOLD 67.84-69.56 SELECTED 0.00-1.40
+Q: The patient was treated with penicillin, correct?
+P: Pernille, come in.
+
+sample_77 score= 0.333 rejected= False
+GOLD 49.56-52.96 SELECTED 13.50-14.54
+Q: Does the patient have an infection in the big toe?
+P: It is my big toe.
+
+sample_79 score= 0.286 rejected= True
+GOLD 24.72-28.16 SELECTED 112.66-115.76
+Q: Do the pains come and go rather than being constant?
+P: I would rather know where we stand than be told everything is fine.
+
+sample_79 score= 0.25 rejected= True
+GOLD 0.00-2.80 SELECTED 42.48-45.96
+Q: Did the patient show up in person for the consultation?
+P: Some days, I barely notice it, and then it turns up again behind the kneecap.
+
+sample_79 score= 0.25 rejected= True
+GOLD 80.88-87.40 SELECTED 102.12-107.24
+Q: Was the suspicion reached without imaging?
+P: I want to be clear that this is a clinical suspicion at this stage, not something confirmed.
+
+sample_81 score= 0.333 rejected= False
+GOLD 63.88-68.32 SELECTED 12.66-14.76
+Q: Was gastroenteritis the diagnosis arrived at?
+P: All the usual gastroenteritis symptoms.
+
+sample_82 score= 0.333 rejected= False
+GOLD 65.96-67.40 SELECTED 40.26-45.42
+Q: The lesions will be treated with freezing, right?
+P: I can see three small lesions, all in the same area on the chest wall.
+
+sample_82 score= 0.0 rejected= True
+GOLD 52.66-55.56 SELECTED 0.00-2.38
+Q: Do the elements resemble molluscs?
+P: Good morning. My name is Ann Thorson.
+
+sample_84 score= 0.5 rejected= False
+GOLD 78.28-79.52 SELECTED 76.84-77.54
+Q: Does the patient exercise regularly?
+P: And exercise?
+
+sample_84 score= 0.333 rejected= False
+GOLD 193.64-201.30 SELECTED 125.80-134.40
+Q: Will both blood tests and an ECG be carried out?
+P: It sounds high when you say it out loud like that. I am recording it as today's measurement, and it will be looked at together with the tests
+
+sample_86 score= 0.5 rejected= False
+GOLD 35.14-35.74 SELECTED 32.78-34.50
+Q: Is the patient free of fever?
+P: Have you had any fever with it?
+
+sample_90 score= 0.5 rejected= False
+GOLD 20.08-21.92 SELECTED 9.70-12.80
+Q: Has the doctor reviewed the photograph?
+P: Not at all. You sent a photograph through to us, is that right?

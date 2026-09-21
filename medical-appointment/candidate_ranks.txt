@@ -1,0 +1,113 @@
+POSITIVES: 195
+ORACLE IN TOP 1: 92 (47.2%)
+ORACLE IN TOP 2: 105 (53.8%)
+ORACLE IN TOP 3: 115 (59.0%)
+ORACLE IN TOP 5: 132 (67.7%)
+ORACLE IN TOP 10: 158 (81.0%)
+ORACLE IN TOP 20: 173 (88.7%)
+
+ORACLE RANK DISTRIBUTION
+1 92
+2 13
+3 10
+4 11
+5 6
+6 6
+7 12
+8 2
+9 3
+10 3
+11 3
+12 3
+13 2
+14 1
+16 2
+17 1
+20 3
+22 1
+27 1
+28 1
+
+TOP-vs-ORACLE SCORE GAP
+P25: 0.0
+P50: 0.0
+P75: 0.25
+P90: 0.3333
+P95: 0.5
+
+FIRST 25 CASES WHERE ORACLE IS TOP-5 BUT NOT TOP-1
+sample_4 rank= 2 gap= 0.0 oracle_tIoU= 0.968 top_start= 26.28 oracle_start= 40.62
+Q: Were the lungs found to be normal on auscultation?
+
+sample_5 rank= 3 gap= 0.0 oracle_tIoU= 0.968 top_start= 142.42 oracle_start= 142.42
+Q: Will the NSAID treatment be continued under cover of a proton pump inhibitor?
+
+sample_5 rank= 3 gap= 0.0 oracle_tIoU= 0.918 top_start= 70.28 oracle_start= 70.28
+Q: Are the menopausal symptoms treated with Activelle?
+
+sample_6 rank= 2 gap= 0.0 oracle_tIoU= 0.948 top_start= 65.48 oracle_start= 63.1
+Q: Are four daily doses of one million IU of penicillin planned?
+
+sample_17 rank= 4 gap= 0.25 oracle_tIoU= 0.929 top_start= 39.36 oracle_start= 48.34
+Q: Will the treatment last two weeks?
+
+sample_18 rank= 5 gap= 0.333 oracle_tIoU= 0.457 top_start= 66.68 oracle_start= 69.4
+Q: Has the Ibumetin prescription been issued?
+
+sample_18 rank= 3 gap= 0.0 oracle_tIoU= 0.782 top_start= 19.56 oracle_start= 19.56
+Q: Is the patient also taking Pantoprazole?
+
+sample_23 rank= 3 gap= 0.12 oracle_tIoU= 0.954 top_start= 43.44 oracle_start= 53.3
+Q: Were the skin changes judged to be benign?
+
+sample_33 rank= 2 gap= 0.0 oracle_tIoU= 0.786 top_start= 29.14 oracle_start= 25.84
+Q: Is the patient free of symptoms at the moment?
+
+sample_37 rank= 3 gap= 0.0 oracle_tIoU= 0.641 top_start= 17.46 oracle_start= 17.46
+Q: Are redness and swelling absent?
+
+sample_37 rank= 5 gap= 0.333 oracle_tIoU= 0.482 top_start= 55.42 oracle_start= 58.7
+Q: The plan involves no treatment, right?
+
+sample_39 rank= 3 gap= 0.0 oracle_tIoU= 0.952 top_start= 47.54 oracle_start= 47.54
+Q: Was reduced mobility found during the examination?
+
+sample_39 rank= 5 gap= 0.25 oracle_tIoU= 0.539 top_start= 63.6 oracle_start= 63.6
+Q: Were painkillers part of the treatment plan?
+
+sample_42 rank= 2 gap= 0.2 oracle_tIoU= 0.977 top_start= 39.18 oracle_start= 39.18
+Q: Was the blood pressure measured at 135/88?
+
+sample_42 rank= 2 gap= 0.0 oracle_tIoU= 0.964 top_start= 22.62 oracle_start= 89.92
+Q: Were exercise recommendations also part of the plan?
+
+sample_43 rank= 4 gap= 0.5 oracle_tIoU= 0.504 top_start= 3.52 oracle_start= 3.52
+Q: Does the patient have a sore throat?
+
+sample_43 rank= 2 gap= 0.0 oracle_tIoU= 0.485 top_start= 3.52 oracle_start= 29.16
+Q: Did the examination find no pus in the throat?
+
+sample_48 rank= 4 gap= 0.167 oracle_tIoU= 0.809 top_start= 37.42 oracle_start= 41.24
+Q: Were both blood tests within normal limits?
+
+sample_48 rank= 3 gap= 0.0 oracle_tIoU= 0.964 top_start= 77.34 oracle_start= 77.34
+Q: Has the patient been left without any specific treatment?
+
+sample_50 rank= 2 gap= 0.0 oracle_tIoU= 0.325 top_start= 22.26 oracle_start= 18.62
+Q: Is the patient free of any symptoms at this visit?
+
+sample_54 rank= 2 gap= 0.0 oracle_tIoU= 0.961 top_start= 53.14 oracle_start= 51.58
+Q: Was the foot examination normal?
+
+sample_54 rank= 2 gap= 0.333 oracle_tIoU= 0.922 top_start= 68.84 oracle_start= 68.84
+Q: Does the doctor regard the diabetes as stable?
+
+sample_56 rank= 5 gap= 0.167 oracle_tIoU= 0.884 top_start= 43.0 oracle_start= 48.58
+Q: Did the COVID-19 test come back negative?
+
+sample_57 rank= 4 gap= 0.333 oracle_tIoU= 0.722 top_start= 115.76 oracle_start= 115.76
+Q: Will the patient continue on the current medication?
+
+sample_57 rank= 5 gap= 0.333 oracle_tIoU= 0.365 top_start= 115.76 oracle_start= 115.76
+Q: Should the patient carry on with the same lifestyle?
+

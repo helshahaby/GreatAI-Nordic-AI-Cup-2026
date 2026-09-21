@@ -1,0 +1,35 @@
+# Python
+.venv/
+**/.venv/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+
+# Generated artifacts
+*.log
+*.tmp
+**/runs/
+**/datasets/
+**/transcript_dumps/
+
+# Downloaded base models
+**/yolo11n.pt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Competition/source datasets
+drone-flyby/src/helsinki/images/
+medical-appointment/data/audio/

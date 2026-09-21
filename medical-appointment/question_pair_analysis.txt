@@ -1,0 +1,577 @@
+TOTAL HARD NEGATIVES: 142
+>=0.30: 133 (93.7%)
+>=0.40: 123 (86.6%)
+>=0.50: 103 (72.5%)
+>=0.60: 77 (54.2%)
+>=0.70: 36 (25.4%)
+>=0.80: 23 (16.2%)
+
+TOP PAIRS
+
+sample_71 0.9623
+NEG: Is the LDL cholesterol 4.2 mmol/L?
+POS: Is the LDL cholesterol 2.2 mmol/L?
+
+sample_75 0.9246
+NEG: Did the patient report a known exposure to COVID-19?
+POS: Does the patient deny any known exposure to COVID-19?
+
+sample_79 0.9017
+NEG: Was the diagnosis of chondromalacia patellae confirmed by an MRI scan?
+POS: Is chondromalacia patellae suspected on clinical grounds?
+
+sample_47 0.8858
+NEG: Were the tonsils pale and free of coatings?
+POS: Were coatings seen on the tonsils?
+
+sample_81 0.8843
+NEG: Was the patient told to restrict fluid intake?
+POS: Did the patient receive advice about fluid intake?
+
+sample_43 0.8632
+NEG: Did the doctor see pus in the throat?
+POS: Did the examination find no pus in the throat?
+
+sample_42 0.8524
+NEG: Did the doctor consider the patient severely obese?
+POS: Did the doctor assess the patient as slightly overweight?
+
+sample_90 0.8519
+NEG: Did the doctor find the change suspicious?
+POS: Does the doctor consider the change harmless?
+
+sample_19 0.8507
+NEG: Were the prescriptions stopped rather than renewed?
+POS: Were three prescriptions renewed in total?
+
+sample_95 0.8501
+NEG: Is the treatment being stopped because it is poorly tolerated?
+POS: The treatment is considered well tolerated, right?
+
+sample_42 0.8434
+NEG: Was the blood pressure 155/98?
+POS: Was the blood pressure measured at 135/88?
+
+sample_86 0.8426
+NEG: Did the patient have a fever when he came in?
+POS: Is the patient free of fever?
+
+sample_71 0.8401
+NEG: Did the creatinine turn out to be elevated?
+POS: Did the creatinine come back normal?
+
+sample_90 0.836
+NEG: Does the patient describe the mole as small and unchanged?
+POS: Did the patient notice a new mole?
+
+sample_50 0.8298
+NEG: Does the fasting blood sugar lie at 5.0 mmol/L?
+POS: Does the patient have a fasting blood sugar of 7.0 mmol/L?
+
+sample_56 0.8277
+NEG: Was the patient's thyroid function found to be reduced?
+POS: The patient's thyroid function was checked, wasn't it?
+
+sample_54 0.8253
+NEG: Has the diabetes become unstable?
+POS: Does the doctor regard the diabetes as stable?
+
+sample_70 0.8253
+NEG: Was the vaccination postponed to a later date?
+POS: The vaccination went as planned, didn't it?
+
+sample_17 0.8242
+NEG: Was the prescribed dose 200 mg daily?
+POS: Should the daily dose be 100 mg?
+
+sample_55 0.8183
+NEG: Is the HbA1c reported as 53 mmol/mol?
+POS: Did the HbA1c come out at 43 mmol/mol?
+
+sample_23 0.8154
+NEG: Has the patient been told that the procedure carries no risk of scarring?
+POS: Has the patient been informed about the risk of scarring and infection?
+
+sample_67 0.8081
+NEG: Is the diabetes described as poorly controlled?
+POS: The doctor described the diabetes as stable, right?
+
+sample_84 0.8042
+NEG: Does the patient say that exercise is something they rarely do?
+POS: Does the patient exercise regularly?
+
+sample_66 0.799
+NEG: Was the patient's diabetes found to be unstable?
+POS: The diabetes status was described as stable, wasn't it?
+
+sample_57 0.796
+NEG: Was the patient advised to stop the current medication?
+POS: Will the patient continue on the current medication?
+
+sample_37 0.7657
+NEG: Was erythema migrans seen around the bite?
+POS: Was erythema migrans absent?
+
+sample_90 0.7513
+NEG: Is the new mole sitting on the back?
+POS: Is the mole located on the thigh?
+
+sample_19 0.7386
+NEG: Alongside asthma, is the patient treated for diabetes?
+POS: Is the patient still being treated for asthma?
+
+sample_18 0.7344
+NEG: Should the blood pressure readings be taken at the clinic instead of at home?
+POS: Was blood pressure to be measured at home over three days?
+
+sample_20 0.7328
+NEG: Will the patient be referred to a pain clinic?
+POS: Does the patient still need pain relief?
+
+sample_17 0.7228
+NEG: The treatment is planned to run for six weeks, right?
+POS: Will the treatment last two weeks?
+
+sample_39 0.715
+NEG: Was the patient's mobility completely unaffected?
+POS: Was reduced mobility found during the examination?
+
+sample_95 0.7143
+NEG: Have the results of the blood tests already been gone through?
+POS: Were blood tests taken at this visit?
+
+sample_82 0.7059
+NEG: Will the lesions be removed surgically?
+POS: The lesions will be treated with freezing, right?
+
+sample_6 0.7052
+NEG: Does the patient want to avoid antibiotics?
+POS: Did the patient ask for penicillin?
+
+sample_43 0.7048
+NEG: Is the infection thought to be bacterial?
+POS: Is the infection considered to be viral?
+
+sample_82 0.699
+NEG: Were seven small lesions counted in the area?
+POS: Were three small lesions seen in the same area of the thorax?
+
+sample_77 0.6985
+NEG: Did the infection appear only two days after the injury?
+POS: Was the infection judged to follow a penetrating trauma?
+
+sample_86 0.6981
+NEG: Were both testicles found to be enlarged and abnormal?
+POS: Both testicles felt normal at the examination, correct?
+
+sample_52 0.6969
+NEG: Is the patient's grasp of the treatment considered inadequate?
+POS: The patient understands the treatment well, right?
+
+sample_5 0.6902
+NEG: Did the back pain begin after surgery for a lumbar disc prolapse?
+POS: Did the patient undergo surgery for a cervical disc prolapse in 2017?
+
+sample_47 0.6886
+NEG: Does the patient complain of hoarseness as the main symptom?
+POS: Does the patient have a sore throat?
+
+sample_48 0.6883
+NEG: Is the tiredness described as brief and occasional?
+POS: Is the patient's tiredness persistent?
+
+sample_67 0.6881
+NEG: Has the patient been referred to a dietitian?
+POS: Is the patient sticking to the diet and lifestyle advice?
+
+sample_54 0.6838
+NEG: Was the patient given a pneumococcal vaccination?
+POS: Has the patient received a flu vaccination?
+
+sample_63 0.6762
+NEG: Did the patient describe new episodes of dizziness?
+POS: Did the patient report no new symptoms?
+
+sample_95 0.6752
+NEG: Did the patient report muscle pain as a side effect?
+POS: Has the patient been free of side effects?
+
+sample_79 0.6751
+NEG: Are the knee pains constant throughout the day?
+POS: Do the pains come and go rather than being constant?
+
+sample_57 0.6729
+NEG: Will the diabetes now be treated with insulin?
+POS: Is the diabetes considered stable?
+
+sample_92 0.6712
+NEG: Has the result of the urine analysis already come back?
+POS: Has a urine sample been sent off for albumin/creatinine ratio analysis?
+
+sample_47 0.6707
+NEG: Has the throat problem been assessed as a viral infection?
+POS: Does the patient have a sore throat?
+
+sample_20 0.6625
+NEG: Did the patient ask for morphine to be renewed?
+POS: Does the patient still need pain relief?
+
+sample_47 0.6617
+NEG: Is the patient able to swallow without any discomfort?
+POS: Does the patient have a sore throat?
+
+sample_4 0.6553
+NEG: Has an irregular heart rhythm been found?
+POS: Is the heart examination without abnormal findings?
+
+sample_56 0.6532
+NEG: Has iron treatment been started for the tiredness?
+POS: Has the cause of the tiredness remained unexplained?
+
+sample_79 0.6499
+NEG: Does the pain sit on the back of the thigh?
+POS: Does the patient have pain behind the kneecap?
+
+sample_52 0.6481
+NEG: Was the patient found to be poorly motivated?
+POS: Was the patient seen as engaged during the consultation?
+
+sample_63 0.6476
+NEG: Have complications of the diabetes been identified?
+POS: Was the diabetes control judged to be good?
+
+sample_37 0.643
+NEG: Has the bite area become red and swollen?
+POS: Are redness and swelling absent?
+
+sample_86 0.6419
+NEG: Was the swelling located on the left side of the scrotum?
+POS: Was a small swelling found around the epididymis?
+
+sample_10 0.6406
+NEG: Did the patient report new breathing symptoms?
+POS: Are the patient's complaints unchanged, with nothing new reported?
+
+sample_48 0.6385
+NEG: Does the doctor attribute the fatigue to a thyroid disorder?
+POS: The thyroid test gave a normal result, right?
+
+sample_66 0.6385
+NEG: Did a local reaction develop at the injection site?
+POS: Is the patient free of any reaction after the injection?
+
+sample_66 0.6335
+NEG: Did the doctor decide to adjust the diabetes medication?
+POS: The diabetes status was described as stable, wasn't it?
+
+sample_64 0.6335
+NEG: Did the doctor prescribe an antifungal cream?
+POS: A moisturizing cream was prescribed, wasn't it?
+
+sample_75 0.6327
+NEG: Was the patient found to have a fever?
+POS: Has the patient had a sore throat for a few days?
+
+sample_56 0.631
+NEG: Will treatment for the fatigue begin straight away?
+POS: Has the cause of the tiredness remained unexplained?
+
+sample_64 0.6301
+NEG: Does the patient complain of dryness on the hands?
+POS: Is dry skin the reason for this consultation?
+
+sample_10 0.6264
+NEG: Were abnormal sounds heard over the lungs?
+POS: Were the lungs and heart normal on auscultation?
+
+sample_77 0.6248
+NEG: Was a foreign body found in the toe?
+POS: Does the patient have an infection in the big toe?
+
+sample_75 0.613
+NEG: Did the throat examination reveal pronounced swelling with pus?
+POS: Has the patient had a sore throat for a few days?
+
+sample_39 0.6125
+NEG: Does the pain radiate down the leg?
+POS: Does the patient have pain in the lower back?
+
+sample_17 0.6108
+NEG: Should the tablets be taken on an empty stomach?
+POS: Is the medicine to be taken after a meal?
+
+sample_39 0.6102
+NEG: Did the doctor conclude that the pain came from a herniated disc?
+POS: Does the patient have pain in the lower back?
+
+sample_18 0.6032
+NEG: Were liver values the focus of the planned blood tests?
+POS: Will the blood tests include cholesterol and blood sugar?
+
+sample_86 0.6022
+NEG: Does the doctor suspect a testicular torsion?
+POS: Both testicles felt normal at the examination, correct?
+
+sample_69 0.6007
+NEG: Have early complications of the diabetes been detected?
+POS: The diabetes was judged to be stable, right?
+
+sample_10 0.5992
+NEG: Has the doctor found the condition to be unstable?
+POS: Does the patient need continued treatment?
+
+sample_95 0.5986
+NEG: Has the dose been increased at this consultation?
+POS: Has the patient been free of side effects?
+
+sample_86 0.5971
+NEG: Has surgery been scheduled to remove the swelling?
+POS: Was a small swelling found around the epididymis?
+
+sample_4 0.5924
+NEG: Should the asthma medication dose be increased?
+POS: Did the patient attend for an annual asthma follow-up?
+
+sample_69 0.577
+NEG: Is blood pressure medication being started?
+POS: Was the blood pressure normal?
+
+sample_70 0.5731
+NEG: Is the patient asked to come back in a week for a second dose?
+POS: Can the patient leave without any additional treatment?
+
+sample_20 0.5696
+NEG: Does the pain affect the lower back alone?
+POS: Has the pain problem been described as stable?
+
+sample_81 0.5694
+NEG: Was a bacterial cause considered the most likely one?
+POS: Is a viral cause thought to be the most likely explanation?
+
+sample_47 0.5675
+NEG: Was the patient told to manage with symptom relief only?
+POS: Does the patient have a sore throat?
+
+sample_6 0.5664
+NEG: Should the fungal infection be treated with Brentan gel?
+POS: Does the patient also have a fungal infection in the mouth?
+
+sample_64 0.5662
+NEG: Was the skin problem assessed as eczema?
+POS: Is dry skin the reason for this consultation?
+
+sample_33 0.5593
+NEG: Does the doctor plan to refer the patient to an allergy specialist?
+POS: The visit is a follow-up on allergic rhinitis, correct?
+
+sample_79 0.5586
+NEG: Has the patient been referred to a physiotherapist instead of further procedures?
+POS: Did the patient show up in person for the consultation?
+
+sample_39 0.5572
+NEG: Has the patient been referred for surgery?
+POS: Does the patient have pain in the lower back?
+
+sample_81 0.5485
+NEG: Has the patient been given antibiotics for the illness?
+POS: Was gastroenteritis the diagnosis arrived at?
+
+sample_52 0.5442
+NEG: Has the patient been discharged from any further follow-up?
+POS: Did the doctor plan continued follow-up?
+
+sample_66 0.5385
+NEG: Was the patient given a pneumococcal vaccination?
+POS: Was the vaccination given as part of diabetes care?
+
+sample_81 0.5346
+NEG: Is the patient complaining of chest symptoms?
+POS: Does the patient describe symptoms of gastroenteritis?
+
+sample_71 0.5335
+NEG: Has the patient been troubled by increased thirst?
+POS: The diabetes was described as stable, right?
+
+sample_17 0.5329
+NEG: Has the patient been told that the condition needs no treatment?
+POS: Will the treatment last two weeks?
+
+sample_47 0.5235
+NEG: Did the doctor prescribe erythromycin?
+POS: Has penicillin treatment been started?
+
+sample_19 0.5224
+NEG: Does the doctor describe the medication as unstable and in need of change?
+POS: Is Airomir among the renewed medicines?
+
+sample_75 0.5209
+NEG: Will the patient be starting a course of antibiotics?
+POS: Has the patient had a sore throat for a few days?
+
+sample_82 0.5133
+NEG: Was the growth suspected to be a basal cell carcinoma?
+POS: Has the patient noticed a wart-like growth?
+
+sample_19 0.5093
+NEG: Was Pantoprazole the acid-reducing drug that was renewed?
+POS: Has Esomeprazole been renewed as well?
+
+sample_43 0.5031
+NEG: Does the patient describe abdominal pain as the main problem?
+POS: Does the patient have a sore throat?
+
+sample_33 0.4913
+NEG: Were daily doses made mandatory going forward?
+POS: Should the patient carry on with the treatment as needed?
+
+sample_84 0.4899
+NEG: Is the check-up being done because the patient has symptoms from the heart?
+POS: Does the patient report cardiovascular disease in the family?
+
+sample_54 0.4849
+NEG: Does the plan involve a check-up only every second year?
+POS: Did the plan include continued monitoring?
+
+sample_52 0.4781
+NEG: Were the classes the patient attended about hypertension?
+POS: Was the patient seen as engaged during the consultation?
+
+sample_55 0.473
+NEG: Does the plan include an urgent referral to a kidney specialist?
+POS: Does the plan include routine follow-up?
+
+sample_63 0.4725
+NEG: Is the treatment being changed to a new medication?
+POS: Did the patient report no new symptoms?
+
+sample_52 0.4641
+NEG: Does the plan involve starting insulin?
+POS: Did the doctor plan continued follow-up?
+
+sample_56 0.4641
+NEG: Is the patient complaining mainly of chest pain?
+POS: The patient's thyroid function was checked, wasn't it?
+
+sample_23 0.4598
+NEG: Are the elements on the abdomen about 2 cm across?
+POS: Do the changes on the abdomen and lower leg resemble seborrheic keratoses?
+
+sample_52 0.4546
+NEG: Did the patient skip the diabetes education?
+POS: Was the patient seen as engaged during the consultation?
+
+sample_43 0.4472
+NEG: Were the tonsils covered in coatings?
+POS: Did the examination find no pus in the throat?
+
+sample_86 0.443
+NEG: Is the tenderness in the area described as severe?
+POS: Both testicles felt normal at the examination, correct?
+
+sample_64 0.4425
+NEG: Was intense itching the main complaint?
+POS: A moisturizing cream was prescribed, wasn't it?
+
+sample_5 0.4357
+NEG: Have the pains in the hands been attributed to gout?
+POS: Is the patient still in pain despite regular Ibumetin and Panodil?
+
+sample_63 0.4324
+NEG: Did the blood tests show impaired kidney function?
+POS: Did the patient report no new symptoms?
+
+sample_92 0.4282
+NEG: Was the blood pressure measured at 160/95?
+POS: Did the patient ask to have his cholesterol level checked?
+
+sample_50 0.423
+NEG: Were the results enough to confirm type 2 diabetes already?
+POS: Does the patient have a fasting blood sugar of 7.0 mmol/L?
+
+sample_69 0.4211
+NEG: Were wounds discovered on the feet?
+POS: Is the foot status normal?
+
+sample_82 0.4186
+NEG: Has a cream been prescribed as the treatment?
+POS: The lesions will be treated with freezing, right?
+
+sample_33 0.4005
+NEG: Was anything abnormal picked up at the examination?
+POS: Are the findings unremarkable?
+
+sample_64 0.3967
+NEG: Were open sores found on the feet?
+POS: A moisturizing cream was prescribed, wasn't it?
+
+sample_10 0.3933
+NEG: Does the plan include a referral to a lung specialist?
+POS: Does the patient need continued treatment?
+
+sample_70 0.3786
+NEG: Was blood taken during the same visit?
+POS: The vaccination went as planned, didn't it?
+
+sample_50 0.3739
+NEG: Has metformin treatment been started at this visit?
+POS: Is the patient free of any symptoms at this visit?
+
+sample_75 0.3596
+NEG: Is a bacterial infection thought to be the most likely cause?
+POS: Does the patient deny any known exposure to COVID-19?
+
+sample_92 0.3464
+NEG: Are the patient's exercise habits limited to less than an hour a week?
+POS: Did the patient ask to have his cholesterol level checked?
+
+sample_66 0.3436
+NEG: Has follow-up been discontinued going forward?
+POS: Will the treatment continue without changes?
+
+sample_55 0.3313
+NEG: Has the patient reported tiredness and thirst?
+POS: Will the current treatment be continued?
+
+sample_10 0.326
+NEG: Is the stomach acid medication being discontinued?
+POS: Does the patient need continued treatment?
+
+sample_54 0.3248
+NEG: Is the blood pressure elevated?
+POS: Was the foot examination normal?
+
+sample_92 0.2935
+NEG: Is the pulse recorded as 92?
+POS: Has a urine sample been sent off for albumin/creatinine ratio analysis?
+
+sample_81 0.2656
+NEG: Is admission to hospital part of the plan?
+POS: Was gastroenteritis the diagnosis arrived at?
+
+sample_37 0.2577
+NEG: Is the risk of Borrelia considered high?
+POS: Did the patient get a tick bite?
+
+sample_55 0.2496
+NEG: Did the tests show albuminuria?
+POS: Will the current treatment be continued?
+
+sample_95 0.2459
+NEG: Was the follow-up handled by telephone?
+POS: Were blood tests taken at this visit?
+
+sample_55 0.2295
+NEG: Was the creatinine found to be raised?
+POS: Will the current treatment be continued?
+
+sample_17 0.2253
+NEG: Did the swab come from the throat?
+POS: Is the medicine to be taken after a meal?
+
+sample_95 0.2125
+NEG: Does the plan involve a check every third month from now on?
+POS: Were blood tests taken at this visit?
+
+sample_17 0.1597
+NEG: Were bacteria identified in the sample?
+POS: Is the medicine to be taken after a meal?

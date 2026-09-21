@@ -1,0 +1,67 @@
+POSITIVES: 195
+CURRENT TOP1 WINDOW: 0.4291 nonzero= 138
+ORACLE WINDOW: 0.7432 nonzero= 195
+ORACLE SINGLE SEGMENT: 0.6502 nonzero= 195
+RANKING-RECOVERABLE MISSES: 57
+
+FIRST 20 RECOVERABLE MISSES
+sample_4 oracle= 0.598 score= 0.6
+Q: Did the patient attend for an annual asthma follow-up?
+
+sample_4 oracle= 0.968 score= 0.24
+Q: Were the lungs found to be normal on auscultation?
+
+sample_4 oracle= 0.971 score= 0.333
+Q: Does the visit concern asthma?
+
+sample_6 oracle= 0.903 score= 0.37
+Q: Does the patient also have a fungal infection in the mouth?
+
+sample_6 oracle= 0.97 score= 0.333
+Q: Is the patient complaining of sinus symptoms?
+
+sample_6 oracle= 0.816 score= 0.5
+Q: Has penicillin been prescribed for seven days?
+
+sample_17 oracle= 0.905 score= 0.5
+Q: Is the medicine to be taken after a meal?
+
+sample_17 oracle= 0.929 score= 0.5
+Q: Will the treatment last two weeks?
+
+sample_18 oracle= 0.9 score= 0.62
+Q: Did the patient ask for a renewal of the Ibumetin prescription?
+
+sample_19 oracle= 0.944 score= 0.5
+Q: Were three prescriptions renewed in total?
+
+sample_19 oracle= 0.944 score= 0.333
+Q: Has Esomeprazole been renewed as well?
+
+sample_19 oracle= 0.944 score= 0.25
+Q: Is Airomir among the renewed medicines?
+
+sample_20 oracle= 0.979 score= 0.333
+Q: Was Ibumetin renewed as well?
+
+sample_20 oracle= 0.641 score= 0.25
+Q: Is Pamol one of the medicines requested?
+
+sample_20 oracle= 0.772 score= 0.75
+Q: Does the patient still need pain relief?
+
+sample_20 oracle= 0.689 score= 0.667
+Q: Were both prescriptions issued?
+
+sample_23 oracle= 0.941 score= 0.75
+Q: Does the patient want the skin changes removed?
+
+sample_33 oracle= 0.638 score= 0.667
+Q: Did the antihistamine work well?
+
+sample_33 oracle= 0.457 score= 0.5
+Q: Has the medication helped the patient?
+
+sample_33 oracle= 0.933 score= 0.0
+Q: Should the patient carry on with the treatment as needed?
+
